@@ -15,11 +15,11 @@ UR賃貸住宅の空き情報を **毎日自動取得** し、前日との差分
 ```
 GitHub Actions (cron)
    ↓
-Python スクリプト
+Node.js スクリプト
    ↓
 UR 内部検索API（POST）
    ↓
-SQLite（スナップショット保存）
+JSON（スナップショット保存）
    ↓
 前日との差分検出
    ↓
@@ -30,13 +30,13 @@ Slack / LINE 通知
 
 ## 使用技術
 
-| 区分     | 技術           | 理由                        |
-| -------- | -------------- | --------------------------- |
-| 実行基盤 | GitHub Actions | 無料cron・Python実行可      |
-| 言語     | Python 3.12    | 実装容易・安定              |
-| HTTP     | requests       | 軽量                        |
-| DB       | SQLite         | サーバー不要・1ファイル完結 |
-| 通知     | Slack Webhook  | 実装が最も簡単              |
+| 区分     | 技術                 | 理由                        |
+| -------- | -------------------- | --------------------------- |
+| 実行基盤 | GitHub Actions       | 無料cron・Node.js実行可     |
+| 言語     | Node.js / Typescript | 実装容易・安定              |
+| HTTP     | requests             | 軽量                        |
+| Data     | JSONファイル         | サーバー不要・1ファイル完結 |
+| 通知     | Slack Webhook        | 実装が最も簡単              |
 
 ---
 
@@ -99,7 +99,7 @@ Slack / LINE 通知
 
 ### 方針
 
-SQLite は使用せず、**日次スナップショットを JSON ファイルとして保存し、Git の commit 履歴で管理**する。
+**日次スナップショットを JSON ファイルとして保存し、Git の commit 履歴で管理**する。
 
 - DB不要
 - 人間が直接中身を確認できる
@@ -227,14 +227,14 @@ ur-watch/
 ├── notify.py     # 通知
 ├── requirements.txt
 └── data/
-    └── ur.sqlite
+    └── json
 ```
 
 ---
 
 ## 永続化方針
 
-- SQLite ファイルを GitHub リポジトリに commit
+- JSON ファイルを GitHub リポジトリに commit
 - Git が履歴バックアップを兼ねる
 
 ---
@@ -264,7 +264,7 @@ ur-watch/
 ```
 GitHub Actions
    ↓
-Python（最新データ抽出）
+Node.js（最新データ抽出）
    ↓
 静的JSON生成
    ↓
@@ -277,7 +277,7 @@ GitHub Pages
 
 ### データ提供方式
 
-- SQLite から **最新日付のデータのみ** 抽出
+- JSON から **最新日付のデータのみ** 抽出
 - 以下のような JSON を生成してリポジトリに配置
 
 ```json
@@ -301,7 +301,7 @@ GitHub Pages
 
 ### フロントエンド仕様
 
-- 技術: **HTML + Vanilla JS**（ビルド不要）
+- 技術: **Next.js**
 
 - 表示内容:
   - 物件名
@@ -319,7 +319,6 @@ GitHub Pages
 
 ### GitHub Pages 公開方法
 
-- リポジトリの `docs/` または `gh-pages` ブランチを使用
 - GitHub Actions から自動更新
 
 ```text
