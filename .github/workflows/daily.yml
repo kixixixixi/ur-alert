@@ -1,0 +1,46 @@
+name: Daily UR Data Fetch
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # 7:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Fetch UR data
+        run: pnpm fetch:ur
+
+      - name: Detect diff
+        run: pnpm diff:ur
+
+      - name: Send notification
+        run: pnpm notify:ur
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Update UR data $(date +%Y-%m-%d)"
+          git push
