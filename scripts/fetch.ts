@@ -44,7 +44,7 @@ function parseRent(rentStr: string): number {
 
 function parseFloorspace(fsStr: string): number {
   // "63&#13217;" or "63㎡" -> 63
-  const num = fsStr.replace(/[^0-9.]/g, "")
+  const num = fsStr.match(/\d+/)[0]
   return num ? parseFloat(num) : 0
 }
 
@@ -159,7 +159,9 @@ async function main() {
 
   mkdirSync(snapshotsDir, { recursive: true })
 
-  console.log(`Fetching UR properties for Tokyo (${SKCS_CODES.length} areas)...`)
+  console.log(
+    `Fetching UR properties for Tokyo (${SKCS_CODES.length} areas)...`
+  )
   const allItems: UrItem[] = []
 
   for (const skcs of SKCS_CODES) {
