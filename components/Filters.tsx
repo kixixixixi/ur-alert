@@ -6,15 +6,17 @@ export interface FilterValues {
   rentMin: string
   rentMax: string
   layouts: string[]
+  areas: string[]
 }
 
 interface FiltersProps {
   values: FilterValues
   onChange: (values: FilterValues) => void
   availableLayouts: string[]
+  availableAreas: string[]
 }
 
-const Filters: FC<FiltersProps> = ({ values, onChange, availableLayouts }) => {
+const Filters: FC<FiltersProps> = ({ values, onChange, availableLayouts, availableAreas }) => {
   const inputStyle = {
     backgroundColor: "#333",
     border: "1px solid #555",
@@ -104,8 +106,46 @@ const Filters: FC<FiltersProps> = ({ values, onChange, availableLayouts }) => {
           ))}
         </div>
       </div>
+      <div>
+        <span
+          style={{ color: "#aaa", display: "block", fontSize: "0.75rem", marginBottom: "4px" }}
+        >
+          行政区
+        </span>
+        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.4rem" }}>
+          {availableAreas.map((area) => (
+            <label
+              key={area}
+              style={{
+                alignItems: "center",
+                backgroundColor: values.areas.includes(area) ? "#4caf50" : "#444",
+                borderRadius: "4px",
+                color: "#f0f0f0",
+                cursor: "pointer",
+                display: "flex",
+                fontSize: "0.8rem",
+                gap: "4px",
+                padding: "4px 8px",
+              }}
+            >
+              <input
+                type="checkbox"
+                checked={values.areas.includes(area)}
+                onChange={(e) => {
+                  const next = e.target.checked
+                    ? [...values.areas, area]
+                    : values.areas.filter((a) => a !== area)
+                  onChange({ ...values, areas: next })
+                }}
+                style={{ display: "none" }}
+              />
+              {area}
+            </label>
+          ))}
+        </div>
+      </div>
       <button
-        onClick={() => onChange({ rentMin: "", rentMax: "", layouts: [] })}
+        onClick={() => onChange({ rentMin: "", rentMax: "", layouts: [], areas: [] })}
         style={{
           backgroundColor: "#555",
           border: "none",

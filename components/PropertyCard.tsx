@@ -34,9 +34,14 @@ const PropertyCard: FC<PropertyCardProps> = ({ item, isNew }) => {
           NEW
         </span>
       )}
-      <h3 style={{ fontSize: "1rem", margin: "0 0 0.5rem" }}>
+      <h3 style={{ fontSize: "1rem", margin: "0 0 0.25rem" }}>
         {item.bukkenName}
       </h3>
+      {item.address && (
+        <p style={{ color: "#999", fontSize: "0.75rem", margin: "0 0 0.25rem" }}>
+          {item.address}
+        </p>
+      )}
       <p style={{ color: "#aaa", fontSize: "0.85rem", margin: "0 0 0.5rem" }}>
         {item.roomNo}
       </p>

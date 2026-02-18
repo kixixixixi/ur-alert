@@ -16,10 +16,21 @@ const PropertyList: FC<PropertyListProps> = ({ items, snapshotDate, newItemIds }
     rentMin: "",
     rentMax: "",
     layouts: [],
+    areas: [],
   })
 
   const availableLayouts = useMemo(() => {
     const set = new Set(items.map((i) => i.layout))
+    return Array.from(set).sort()
+  }, [items])
+
+  const availableAreas = useMemo(() => {
+    const set = new Set(
+      items.map((i) => {
+        const match = (i.address || "").match(/^(.+?[区市町村])/)
+        return match ? match[1] : ""
+      }).filter(Boolean)
+    )
     return Array.from(set).sort()
   }, [items])
 
@@ -31,6 +42,11 @@ const PropertyList: FC<PropertyListProps> = ({ items, snapshotDate, newItemIds }
       if (filters.rentMax && item.rent > Number(filters.rentMax)) return false
       if (filters.layouts.length > 0 && !filters.layouts.includes(item.layout))
         return false
+      if (filters.areas.length > 0) {
+        const match = (item.address || "").match(/^(.+?[区市町村])/)
+        const area = match ? match[1] : ""
+        if (!filters.areas.includes(area)) return false
+      }
       return true
     })
   }, [items, filters])
@@ -44,6 +60,7 @@ const PropertyList: FC<PropertyListProps> = ({ items, snapshotDate, newItemIds }
         values={filters}
         onChange={setFilters}
         availableLayouts={availableLayouts}
+        availableAreas={availableAreas}
       />
       <div
         style={{

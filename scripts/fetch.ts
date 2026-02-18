@@ -53,6 +53,7 @@ interface ApiBukken {
   danchi: string
   shikibetu: string
   danchiNm: string
+  place: string
   allCount: string
   bukkenCount: string
   room?: ApiRoom[]
@@ -81,6 +82,7 @@ function mapRoom(bukken: ApiBukken, room: ApiRoom): UrItem {
     bukkenNo: makeBukkenNo(bukken),
     roomNo: room.id,
     bukkenName: bukken.danchiNm,
+    address: bukken.place || "",
     rent: parseRent(room.rent),
     commonfee: parseRent(room.commonfee || "0"),
     layout: room.type,

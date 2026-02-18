@@ -2,6 +2,7 @@ export interface UrItem {
   bukkenNo: string
   roomNo: string
   bukkenName: string
+  address: string
   rent: number
   commonfee: number
   layout: string
