@@ -56,6 +56,7 @@ interface ApiBukken {
   place: string
   allCount: string
   bukkenCount: string
+  bukkenImg?: string
   room?: ApiRoom[]
 }
 
@@ -70,6 +71,7 @@ interface ApiRoom {
   floorspace: string
   floor: string
   roomLinkPc: string
+  madori?: string
   system: Array<{ 制度HTML: string }>
 }
 
@@ -90,6 +92,8 @@ function mapRoom(bukken: ApiBukken, room: ApiRoom): UrItem {
     floor: room.floor || "",
     status: "募集中",
     url: room.roomLinkPc ? BASE_URL + room.roomLinkPc : "",
+    imageUrl: bukken.bukkenImg || "",
+    madoriUrl: room.madori || "",
   }
 }
 

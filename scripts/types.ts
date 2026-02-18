@@ -10,6 +10,8 @@ export interface UrItem {
   floor: string
   status: string
   url: string
+  imageUrl?: string
+  madoriUrl?: string
 }
 
 export interface Snapshot {
