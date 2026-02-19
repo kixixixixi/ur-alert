@@ -153,10 +153,15 @@ async function fetchArea(skcs: string): Promise<UrItem[]> {
 }
 
 async function main() {
-  const today = new Date().toISOString().slice(0, 10)
+  const now = new Date()
+  const jst = new Date(now.getTime() + 9 * 60 * 60 * 1000)
+  const jstIso = jst.toISOString()
+  const timestamp = jstIso.slice(0, 13).replace("T", "-") // "2026-02-19-10"
+  const displayDate = jstIso.slice(0, 16).replace("T", " ") + " JST" // "2026-02-19 10:00 JST"
+
   const dataDir = join(process.cwd(), "data")
   const snapshotsDir = join(dataDir, "snapshots")
-  const snapshotFile = join(snapshotsDir, `${today}.json`)
+  const snapshotFile = join(snapshotsDir, `${timestamp}.json`)
 
   if (existsSync(snapshotFile)) {
     console.log(`Snapshot already exists: ${snapshotFile}`)
@@ -192,7 +197,7 @@ async function main() {
   }
 
   const snapshot: Snapshot = {
-    snapshot_date: today,
+    snapshot_date: displayDate,
     items: dedupItems,
   }
 
