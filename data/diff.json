@@ -1,43 +1,6 @@
 {
-  "diff_date": "2026-02-22 13:35 JST",
-  "previous_date": "2026-02-22 12:01 JST",
-  "entries": [
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_5630",
-        "roomNo": "000061307",
-        "bukkenName": "晴海アイランド トリトンスクエアビュープラザ",
-        "address": "中央区晴海1-6",
-        "rent": 129800,
-        "commonfee": 12000,
-        "layout": "1K",
-        "floorspace": 30,
-        "floor": "13階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5630_room.html?JKSS=000061307",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_563/20_563_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20563/0000006/A1c/RA/Image/20_563_0-00-0006_A1c_RA_01_00009.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_2810",
-        "roomNo": "000100501",
-        "bukkenName": "大谷田一丁目",
-        "address": "足立区大谷田1-1",
-        "rent": 81700,
-        "commonfee": 3700,
-        "layout": "2DK",
-        "floorspace": 49,
-        "floor": "5階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2810_room.html?JKSS=000100501",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_281/20_281_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20281/0000010/C2bA/RA/Image/20_281_0-00-0010_C2bA_RA_01_00006.gif"
-      }
-    }
-  ],
+  "diff_date": "2026-02-22 14:25 JST",
+  "previous_date": "2026-02-22 13:35 JST",
+  "entries": [],
   "new_item_ids": []
 }
