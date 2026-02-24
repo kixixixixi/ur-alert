@@ -1,6 +1,10 @@
 name: Deploy to GitHub Pages
 
 on:
+  workflow_run:
+    workflows: ["Daily UR Data Fetch"]
+    types:
+      - completed
   push:
     branches:
       - main
