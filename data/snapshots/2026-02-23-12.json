@@ -1,0 +1,80 @@
+{
+  "snapshot_date": "2026-02-23 12:02 JST",
+  "items": [
+    {
+      "bukkenNo": "20_5180",
+      "roomNo": "000003206",
+      "bukkenName": "恵比寿ビュータワー",
+      "address": "目黒区三田1-4-4",
+      "rent": 265500,
+      "commonfee": 4500,
+      "layout": "1K",
+      "floorspace": 40,
+      "floor": "32階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5180_room.html?JKSS=000003206",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_518/20_518_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_518/20_518_0-00-0000_Cp_RA_01_00013_s.gif"
+    },
+    {
+      "bukkenNo": "20_4010",
+      "roomNo": "000000305",
+      "bukkenName": "赤羽北二丁目ハイツ",
+      "address": "北区赤羽北2-22-10",
+      "rent": 120400,
+      "commonfee": 4600,
+      "layout": "1LDK",
+      "floorspace": 48,
+      "floor": "3階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4010_room.html?JKSS=000000305",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_401/20_401_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20401/0000000/A/RA/Image/20_401_0-00-0000_A_RA_01_00006.gif"
+    },
+    {
+      "bukkenNo": "20_4760",
+      "roomNo": "000080404",
+      "bukkenName": "新蓮根",
+      "address": "板橋区蓮根2-30ほか",
+      "rent": 154500,
+      "commonfee": 4000,
+      "layout": "2LDK",
+      "floorspace": 62,
+      "floor": "4階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4760_room.html?JKSS=000080404",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_476/20_476_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20476/0000008/K2a/RA/Image/20_476_0-00-0008_K2a_RA_01_00012.gif"
+    },
+    {
+      "bukkenNo": "20_7050",
+      "roomNo": "000040105",
+      "bukkenName": "フレール西新井中央公園",
+      "address": "足立区西新井3-16ほか",
+      "rent": 117700,
+      "commonfee": 5100,
+      "layout": "2DK",
+      "floorspace": 58,
+      "floor": "1階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7050_room.html?JKSS=000040105",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_705/20_705_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_705/20_705_0-00-0004_E_RA_01_00003_s.gif"
+    },
+    {
+      "bukkenNo": "20_7120",
+      "roomNo": "000320519",
+      "bukkenName": "ハートアイランド新田四番街",
+      "address": "足立区新田3-35",
+      "rent": 152800,
+      "commonfee": 5500,
+      "layout": "1LDK",
+      "floorspace": 82,
+      "floor": "5階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7120_room.html?JKSS=000320519",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_712/20_712_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_712/20_712_0-00-0032_Q_RA_01_00001_s.gif"
+    }
+  ]
+}

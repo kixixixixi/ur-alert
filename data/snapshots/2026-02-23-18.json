@@ -1,0 +1,80 @@
+{
+  "snapshot_date": "2026-02-23 18:19 JST",
+  "items": [
+    {
+      "bukkenNo": "20_5690",
+      "roomNo": "000021710",
+      "bukkenName": "晴海アイランド トリトンスクエアガーデンプラザ",
+      "address": "中央区晴海1-7-2",
+      "rent": 183600,
+      "commonfee": 8000,
+      "layout": "1LDK",
+      "floorspace": 44,
+      "floor": "17階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5690_room.html?JKSS=000021710",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_569/20_569_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20569/0000002/D2cf/RA/Image/20_569_0-00-0002_D2cf_RA_01_00011.gif"
+    },
+    {
+      "bukkenNo": "20_3200",
+      "roomNo": "000040819",
+      "bukkenName": "豊洲四丁目",
+      "address": "江東区豊洲4-10",
+      "rent": 170500,
+      "commonfee": 6700,
+      "layout": "1LDK",
+      "floorspace": 60,
+      "floor": "8階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3200_room.html?JKSS=000040819",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_320/20_320_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20320/0000004/121r/RA/Image/20_320_0-00-0004_121r_RA_01_00007.gif"
+    },
+    {
+      "bukkenNo": "20_5180",
+      "roomNo": "000003206",
+      "bukkenName": "恵比寿ビュータワー",
+      "address": "目黒区三田1-4-4",
+      "rent": 265500,
+      "commonfee": 4500,
+      "layout": "1K",
+      "floorspace": 40,
+      "floor": "32階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5180_room.html?JKSS=000003206",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_518/20_518_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_518/20_518_0-00-0000_Cp_RA_01_00013_s.gif"
+    },
+    {
+      "bukkenNo": "20_2250",
+      "roomNo": "310010219",
+      "bukkenName": "高島平",
+      "address": "板橋区高島平2ほか",
+      "rent": 98200,
+      "commonfee": 3800,
+      "layout": "1LDK",
+      "floorspace": 46,
+      "floor": "2階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2250_room.html?JKSS=310010219",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_225/20_225_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_225/20_225_3-10-0001_124r_RA_01_00004_s.gif"
+    },
+    {
+      "bukkenNo": "20_7050",
+      "roomNo": "000040105",
+      "bukkenName": "フレール西新井中央公園",
+      "address": "足立区西新井3-16ほか",
+      "rent": 117700,
+      "commonfee": 5100,
+      "layout": "2DK",
+      "floorspace": 58,
+      "floor": "1階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7050_room.html?JKSS=000040105",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_705/20_705_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_705/20_705_0-00-0004_E_RA_01_00003_s.gif"
+    }
+  ]
+}
