@@ -1,6 +1,25 @@
 {
-  "diff_date": "2026-02-25 16:23 JST",
-  "previous_date": "2026-02-25 15:24 JST",
-  "entries": [],
+  "diff_date": "2026-02-25 17:14 JST",
+  "previous_date": "2026-02-25 16:23 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_4020",
+        "roomNo": "000000303",
+        "bukkenName": "エステート北新宿",
+        "address": "新宿区北新宿3-27-3",
+        "rent": 137300,
+        "commonfee": 7000,
+        "layout": "1LDK",
+        "floorspace": 37,
+        "floor": "3階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4020_room.html?JKSS=000000303",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_402/20_402_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20402/0000000/E/RA/Image/20_402_0-00-0000_E_RA_01_00006.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
