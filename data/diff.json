@@ -1,6 +1,43 @@
 {
-  "diff_date": "2026-03-01 12:02 JST",
-  "previous_date": "2026-03-01 10:33 JST",
-  "entries": [],
+  "diff_date": "2026-03-01 13:38 JST",
+  "previous_date": "2026-03-01 12:02 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_5180",
+        "roomNo": "000002103",
+        "bukkenName": "恵比寿ビュータワー",
+        "address": "目黒区三田1-4-4",
+        "rent": 266200,
+        "commonfee": 4500,
+        "layout": "1LDK",
+        "floorspace": 49,
+        "floor": "21階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5180_room.html?JKSS=000002103",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_518/20_518_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_518/20_518_0-00-0000_G1p_RA_01_00014_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_7050",
+        "roomNo": "000040805",
+        "bukkenName": "フレール西新井中央公園",
+        "address": "足立区西新井3-16ほか",
+        "rent": 144500,
+        "commonfee": 5100,
+        "layout": "3DK",
+        "floorspace": 67,
+        "floor": "8階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7050_room.html?JKSS=000040805",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_705/20_705_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_705/20_705_0-00-0004_H_RA_01_00005_s.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
