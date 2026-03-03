@@ -1,6 +1,81 @@
 {
-  "diff_date": "2026-03-03 16:18 JST",
-  "previous_date": "2026-03-03 15:16 JST",
-  "entries": [],
-  "new_item_ids": []
+  "diff_date": "2026-03-03 17:11 JST",
+  "previous_date": "2026-03-03 16:18 JST",
+  "entries": [
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_7050",
+        "roomNo": "000040601",
+        "bukkenName": "フレール西新井中央公園",
+        "address": "足立区西新井3-16ほか",
+        "rent": 158400,
+        "commonfee": 5100,
+        "layout": "3LDK",
+        "floorspace": 72,
+        "floor": "6階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7050_room.html?JKSS=000040601",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_705/20_705_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_705/20_705_0-00-0004_K_RA_01_00003_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_7200",
+        "roomNo": "000000208",
+        "bukkenName": "コンフォール中野新橋",
+        "address": "中野区弥生町3-6-12",
+        "rent": 181200,
+        "commonfee": 6400,
+        "layout": "1LDK",
+        "floorspace": 55,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7200_room.html?JKSS=000000208",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_720/20_720_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_720/20_720_0-00-0000_F_RA_01_00001_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_3690",
+        "roomNo": "060200305",
+        "bukkenName": "光が丘パークタウン 大通り南",
+        "address": "練馬区光が丘7-3ほか",
+        "rent": 158400,
+        "commonfee": 4700,
+        "layout": "3LDK",
+        "floorspace": 75,
+        "floor": "3階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3690_room.html?JKSS=060200305",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_369/20_369_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20378/0060002/D1/RA/Image/20_378_0-06-0002_D1_RA_01_00009.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_7050",
+        "roomNo": "000060511",
+        "bukkenName": "フレール西新井中央公園",
+        "address": "足立区西新井3-16ほか",
+        "rent": 109900,
+        "commonfee": 5100,
+        "layout": "2DK",
+        "floorspace": 50,
+        "floor": "5階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7050_room.html?JKSS=000060511",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_705/20_705_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_705/20_705_0-00-0006_E_RA_01_00003_s.gif"
+      }
+    }
+  ],
+  "new_item_ids": [
+    "20_7050:000040601"
+  ]
 }
