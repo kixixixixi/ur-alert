@@ -1,6 +1,43 @@
 {
-  "diff_date": "2026-03-04 14:19 JST",
-  "previous_date": "2026-03-04 13:32 JST",
-  "entries": [],
+  "diff_date": "2026-03-04 15:14 JST",
+  "previous_date": "2026-03-04 14:19 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_5820",
+        "roomNo": "000090602",
+        "bukkenName": "ヴェッセル木場南",
+        "address": "江東区塩浜2-18",
+        "rent": 145400,
+        "commonfee": 4000,
+        "layout": "2LDK",
+        "floorspace": 64,
+        "floor": "6階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5820_room.html?JKSS=000090602",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_582/20_582_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_582/20_582_0-00-0009_H_RA_01_00005_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_5820",
+        "roomNo": "000090811",
+        "bukkenName": "ヴェッセル木場南",
+        "address": "江東区塩浜2-18",
+        "rent": 151600,
+        "commonfee": 4000,
+        "layout": "1LDK",
+        "floorspace": 64,
+        "floor": "8階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5820_room.html?JKSS=000090811",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_582/20_582_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20582/0000009/F/RA/Image/20_582_0-00-0009_F_RA_01_00006.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
