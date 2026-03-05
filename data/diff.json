@@ -1,6 +1,25 @@
 {
-  "diff_date": "2026-03-05 16:18 JST",
-  "previous_date": "2026-03-05 15:15 JST",
-  "entries": [],
+  "diff_date": "2026-03-05 17:11 JST",
+  "previous_date": "2026-03-05 16:18 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_3690",
+        "roomNo": "060101202",
+        "bukkenName": "光が丘パークタウン 大通り南",
+        "address": "練馬区光が丘7-3ほか",
+        "rent": 0,
+        "commonfee": 4700,
+        "layout": "1LDK",
+        "floorspace": 56,
+        "floor": "12階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3690_room.html?JKSS=060101202",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_369/20_369_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20378/0060001/A/RA/Image/20_378_0-06-0001_A_RA_01_00004.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
