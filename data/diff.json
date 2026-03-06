@@ -1,6 +1,82 @@
 {
-  "diff_date": "2026-03-06 11:57 JST",
-  "previous_date": "2026-03-06 10:33 JST",
-  "entries": [],
-  "new_item_ids": []
+  "diff_date": "2026-03-06 12:50 JST",
+  "previous_date": "2026-03-06 11:57 JST",
+  "entries": [
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_6781",
+        "roomNo": "000001013",
+        "bukkenName": "ラ・ヴェール明石町",
+        "address": "中央区明石町1-7",
+        "rent": 166100,
+        "commonfee": 10000,
+        "layout": "1K",
+        "floorspace": 44,
+        "floor": "10階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6781_room.html?JKSS=000001013",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_678/20_678_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20678/0000000/B/RA/Image/20_678_0-00-0000_B_RA_01_00004.gif"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_2540",
+        "roomNo": "000030218",
+        "bukkenName": "小島町二丁目",
+        "address": "江戸川区西葛西5-8ほか",
+        "rent": 106000,
+        "commonfee": 3000,
+        "layout": "2DK",
+        "floorspace": 48,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2540_room.html?JKSS=000030218",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_254/20_254_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_254/20_254_0-00-0003_CBr_RA_01_00007_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_1860",
+        "roomNo": "000010710",
+        "bukkenName": "晴海四丁目",
+        "address": "中央区晴海４－１－１",
+        "rent": 142000,
+        "commonfee": 6200,
+        "layout": "2LDK",
+        "floorspace": 55,
+        "floor": "7階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1860_room.html?JKSS=000010710",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_186/20_186_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_186/20_186_0-00-0000_102f_RA_01_00007_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_3340",
+        "roomNo": "000010408",
+        "bukkenName": "リバーサイド桜木",
+        "address": "足立区千住桜木2-17",
+        "rent": 101200,
+        "commonfee": 5000,
+        "layout": "3DK",
+        "floorspace": 63,
+        "floor": "4階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3340_room.html?JKSS=000010408",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_334/20_334_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20334/0000001/C/RA/Image/20_334_0-00-0001_C_RA_01_00010.gif"
+      }
+    }
+  ],
+  "new_item_ids": [
+    "20_6781:000001013",
+    "20_2540:000030218"
+  ]
 }
