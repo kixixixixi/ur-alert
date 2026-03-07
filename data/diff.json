@@ -1,43 +1,6 @@
 {
-  "diff_date": "2026-03-07 15:09 JST",
-  "previous_date": "2026-03-07 14:16 JST",
-  "entries": [
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_2320",
-        "roomNo": "000090602",
-        "bukkenName": "豊島五丁目",
-        "address": "北区豊島5-4ほか",
-        "rent": 62600,
-        "commonfee": 3300,
-        "layout": "1DK",
-        "floorspace": 33,
-        "floor": "6階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000090602",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_232/20_232_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_232/20_232_0-00-0009_A1cf_RA_01_00004_s.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_7000",
-        "roomNo": "000060410",
-        "bukkenName": "パークタウン東綾瀬",
-        "address": "足立区東綾瀬2-5ほか",
-        "rent": 145600,
-        "commonfee": 5500,
-        "layout": "2LDK",
-        "floorspace": 67,
-        "floor": "4階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7000_room.html?JKSS=000060410",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_700/20_700_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20700/0000006/V/RA/Image/20_700_0-00-0006_V_RA_01_00002.gif"
-      }
-    }
-  ],
+  "diff_date": "2026-03-07 16:10 JST",
+  "previous_date": "2026-03-07 15:09 JST",
+  "entries": [],
   "new_item_ids": []
 }
