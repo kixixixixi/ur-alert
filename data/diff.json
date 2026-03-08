@@ -1,25 +1,6 @@
 {
-  "diff_date": "2026-03-08 17:06 JST",
-  "previous_date": "2026-03-08 16:12 JST",
-  "entries": [
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_5780",
-        "roomNo": "000B00202",
-        "bukkenName": "シティコート世田谷給田",
-        "address": "世田谷区給田5-8-5",
-        "rent": 126200,
-        "commonfee": 8100,
-        "layout": "2DK",
-        "floorspace": 54,
-        "floor": "2階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5780_room.html?JKSS=000B00202",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_578/20_578_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_578/20_578_0-00-000B_Gt_RA_01_00005_s.gif"
-      }
-    }
-  ],
+  "diff_date": "2026-03-08 18:07 JST",
+  "previous_date": "2026-03-08 17:06 JST",
+  "entries": [],
   "new_item_ids": []
 }
