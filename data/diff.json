@@ -1,6 +1,43 @@
 {
-  "diff_date": "2026-03-08 14:19 JST",
-  "previous_date": "2026-03-08 13:33 JST",
-  "entries": [],
+  "diff_date": "2026-03-08 15:12 JST",
+  "previous_date": "2026-03-08 14:19 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_2340",
+        "roomNo": "701010512",
+        "bukkenName": "希望ヶ丘",
+        "address": "世田谷区船橋6ほか",
+        "rent": 112400,
+        "commonfee": 3600,
+        "layout": "1K",
+        "floorspace": 45,
+        "floor": "5階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340_room.html?JKSS=701010512",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_234/20_234_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_234/20_234_7-01-0001_102r_RA_01_00008_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_4600",
+        "roomNo": "000020409",
+        "bukkenName": "成城通りパークウエスト",
+        "address": "世田谷区上祖師谷4-2",
+        "rent": 149000,
+        "commonfee": 3800,
+        "layout": "1LDK",
+        "floorspace": 52,
+        "floor": "4階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4600_room.html?JKSS=000020409",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_460/20_460_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_460/20_460_0-00-0002_Dp_RA_01_00011_s.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
