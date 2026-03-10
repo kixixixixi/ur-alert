@@ -1,6 +1,99 @@
 {
-  "diff_date": "2026-03-10 14:21 JST",
-  "previous_date": "2026-03-10 13:33 JST",
-  "entries": [],
-  "new_item_ids": []
+  "diff_date": "2026-03-10 15:14 JST",
+  "previous_date": "2026-03-10 14:21 JST",
+  "entries": [
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_2340",
+        "roomNo": "708020752",
+        "bukkenName": "希望ヶ丘",
+        "address": "世田谷区船橋6ほか",
+        "rent": 107800,
+        "commonfee": 3600,
+        "layout": "1K",
+        "floorspace": 45,
+        "floor": "7階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340_room.html?JKSS=708020752",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_234/20_234_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_234/20_234_7-08-0002_103f_RA_01_00012_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_1920",
+        "roomNo": "000060506",
+        "bukkenName": "大島六丁目",
+        "address": "江東区大島6-1",
+        "rent": 113200,
+        "commonfee": 4200,
+        "layout": "2DK",
+        "floorspace": 53,
+        "floor": "5階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1920_room.html?JKSS=000060506",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_192/20_192_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_192/20_192_0-00-0006_C2am_RA_01_00005_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_1960",
+        "roomNo": "000100806",
+        "bukkenName": "南六郷二丁目",
+        "address": "大田区南六郷2-35",
+        "rent": 106400,
+        "commonfee": 3800,
+        "layout": "1LDK",
+        "floorspace": 51,
+        "floor": "8階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1960_room.html?JKSS=000100806",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_196/20_196_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_196/20_196_0-00-0001_B3a_RA_01_00005_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_2340",
+        "roomNo": "708020124",
+        "bukkenName": "希望ヶ丘",
+        "address": "世田谷区船橋6ほか",
+        "rent": 103200,
+        "commonfee": 3600,
+        "layout": "2DK",
+        "floorspace": 45,
+        "floor": "1階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340_room.html?JKSS=708020124",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_234/20_234_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_234/20_234_7-08-0002_111m_RA_01_00013_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_1301",
+        "roomNo": "000350403",
+        "bukkenName": "竹の塚第一アネックス",
+        "address": "足立区竹の塚3-11ほか",
+        "rent": 141600,
+        "commonfee": 4400,
+        "layout": "3LDK",
+        "floorspace": 79,
+        "floor": "4階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1301_room.html?JKSS=000350403",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_130/20_130_an_gaikan.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_130/20_130_0-00-0035_P_RA_01_00005_s.gif"
+      }
+    }
+  ],
+  "new_item_ids": [
+    "20_2340:708020752"
+  ]
 }
