@@ -1,43 +1,6 @@
 {
-  "diff_date": "2026-03-12 17:12 JST",
-  "previous_date": "2026-03-12 16:19 JST",
-  "entries": [
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_1960",
-        "roomNo": "000200623",
-        "bukkenName": "南六郷二丁目",
-        "address": "大田区南六郷2-35",
-        "rent": 97400,
-        "commonfee": 3800,
-        "layout": "1LDK",
-        "floorspace": 43,
-        "floor": "6階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1960_room.html?JKSS=000200623",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_196/20_196_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20196/0000002/C2f/RA/Image/20_196_0-00-0002_C2f_RA_01_00010.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_6801",
-        "roomNo": "000010501",
-        "bukkenName": "光が丘パークタウン ゆりの木通り３３番街",
-        "address": "板橋区赤塚新町3-33",
-        "rent": 145700,
-        "commonfee": 7900,
-        "layout": "1LDK",
-        "floorspace": 52,
-        "floor": "5階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6801_room.html?JKSS=000010501",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_680/20_680_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20680/0000001/A/RA/Image/20_680_0-00-0001_A_RA_01_00004.gif"
-      }
-    }
-  ],
+  "diff_date": "2026-03-12 18:15 JST",
+  "previous_date": "2026-03-12 17:12 JST",
+  "entries": [],
   "new_item_ids": []
 }
