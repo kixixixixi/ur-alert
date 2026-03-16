@@ -1,45 +1,6 @@
 {
-  "diff_date": "2026-03-16 14:37 JST",
-  "previous_date": "2026-03-16 13:52 JST",
-  "entries": [
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_2380",
-        "roomNo": "000000515",
-        "bukkenName": "練馬北町一丁目",
-        "address": "練馬区北町1-11-12",
-        "rent": 83600,
-        "commonfee": 1900,
-        "layout": "2DK",
-        "floorspace": 47,
-        "floor": "5階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2380_room.html?JKSS=000000515",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_238/20_238_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20238/0000000/2Ad/RA/Image/20_238_0-00-0000_2Ad_RA_01_00009.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_7100",
-        "roomNo": "000004902",
-        "bukkenName": "ベイシティ晴海スカイリンクタワー",
-        "address": "中央区晴海3-6-8",
-        "rent": 402600,
-        "commonfee": 5000,
-        "layout": "2LDK",
-        "floorspace": 90,
-        "floor": "49階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7100_room.html?JKSS=000004902",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_710/20_710_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_710/20_710_0-00-0000_2O_RA_01_00002_s.gif"
-      }
-    }
-  ],
-  "new_item_ids": [
-    "20_2380:000000515"
-  ]
+  "diff_date": "2026-03-16 15:31 JST",
+  "previous_date": "2026-03-16 14:37 JST",
+  "entries": [],
+  "new_item_ids": []
 }
