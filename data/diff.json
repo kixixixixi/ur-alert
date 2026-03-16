@@ -1,43 +1,6 @@
 {
-  "diff_date": "2026-03-16 17:22 JST",
-  "previous_date": "2026-03-16 15:31 JST",
-  "entries": [
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_2380",
-        "roomNo": "000000515",
-        "bukkenName": "練馬北町一丁目",
-        "address": "練馬区北町1-11-12",
-        "rent": 83600,
-        "commonfee": 1900,
-        "layout": "2DK",
-        "floorspace": 47,
-        "floor": "5階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2380_room.html?JKSS=000000515",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_238/20_238_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20238/0000000/2Ad/RA/Image/20_238_0-00-0000_2Ad_RA_01_00009.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_4481",
-        "roomNo": "000080601",
-        "bukkenName": "すまいる亀有",
-        "address": "葛飾区亀有1-10",
-        "rent": 134400,
-        "commonfee": 6600,
-        "layout": "2LDK",
-        "floorspace": 59,
-        "floor": "6階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4481_room.html?JKSS=000080601",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_448/20_448_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20448/0000008/E2ax/RA/Image/20_448_0-00-0008_E2ax_RA_01_00012.gif"
-      }
-    }
-  ],
+  "diff_date": "2026-03-16 18:24 JST",
+  "previous_date": "2026-03-16 17:22 JST",
+  "entries": [],
   "new_item_ids": []
 }
