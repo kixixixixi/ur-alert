@@ -1,6 +1,61 @@
 {
-  "diff_date": "2026-03-17 14:29 JST",
-  "previous_date": "2026-03-17 13:36 JST",
-  "entries": [],
+  "diff_date": "2026-03-17 15:23 JST",
+  "previous_date": "2026-03-17 14:29 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_6530",
+        "roomNo": "000003305",
+        "bukkenName": "ムーンアイランドタワー",
+        "address": "中央区月島2-10-1",
+        "rent": 204900,
+        "commonfee": 6000,
+        "layout": "1LDK",
+        "floorspace": 49,
+        "floor": "33階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6530_room.html?JKSS=000003305",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_653/20_653_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20653/0000000/G/RA/Image/20_653_0-00-0000_G_RA_01_00004.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_7130",
+        "roomNo": "000060204",
+        "bukkenName": "シャレール荻窪",
+        "address": "杉並区荻窪3-7",
+        "rent": 215400,
+        "commonfee": 6500,
+        "layout": "3DK",
+        "floorspace": 67,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7130_room.html?JKSS=000060204",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_713/20_713_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20713/0000006/Zk/RA/Image/20_713_0-00-0006_Zk_RA_01_00002.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_0541",
+        "roomNo": "000000255",
+        "bukkenName": "目白",
+        "address": "豊島区目白2-27-13",
+        "rent": 33200,
+        "commonfee": 10800,
+        "layout": "1K",
+        "floorspace": 12,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_0541_room.html?JKSS=000000255",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_054/20_054_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_054/20_054_0-00-0000_A1k_RA_01_00006_s.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
