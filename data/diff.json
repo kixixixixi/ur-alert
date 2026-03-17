@@ -1,6 +1,45 @@
 {
-  "diff_date": "2026-03-17 11:59 JST",
-  "previous_date": "2026-03-17 10:34 JST",
-  "entries": [],
-  "new_item_ids": []
+  "diff_date": "2026-03-17 12:53 JST",
+  "previous_date": "2026-03-17 11:59 JST",
+  "entries": [
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_0541",
+        "roomNo": "000000255",
+        "bukkenName": "目白",
+        "address": "豊島区目白2-27-13",
+        "rent": 33200,
+        "commonfee": 10800,
+        "layout": "1K",
+        "floorspace": 12,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_0541_room.html?JKSS=000000255",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_054/20_054_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_054/20_054_0-00-0000_A1k_RA_01_00006_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_4760",
+        "roomNo": "000170401",
+        "bukkenName": "新蓮根",
+        "address": "板橋区蓮根2-30ほか",
+        "rent": 174100,
+        "commonfee": 4000,
+        "layout": "3LDK",
+        "floorspace": 68,
+        "floor": "4階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4760_room.html?JKSS=000170401",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_476/20_476_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20476/0000017/R2aw/RA/Image/20_476_0-00-0017_R2aw_RA_01_00013.gif"
+      }
+    }
+  ],
+  "new_item_ids": [
+    "20_0541:000000255"
+  ]
 }
