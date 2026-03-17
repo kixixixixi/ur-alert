@@ -1,6 +1,25 @@
 {
-  "diff_date": "2026-03-17 16:23 JST",
-  "previous_date": "2026-03-17 15:23 JST",
-  "entries": [],
+  "diff_date": "2026-03-17 17:15 JST",
+  "previous_date": "2026-03-17 16:23 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_3200",
+        "roomNo": "000040307",
+        "bukkenName": "豊洲四丁目",
+        "address": "江東区豊洲4-10",
+        "rent": 165300,
+        "commonfee": 6700,
+        "layout": "1LDK",
+        "floorspace": 60,
+        "floor": "3階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3200_room.html?JKSS=000040307",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_320/20_320_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20320/0000004/121m/RA/Image/20_320_0-00-0004_121m_RA_01_00008.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
