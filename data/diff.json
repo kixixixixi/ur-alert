@@ -1,27 +1,6 @@
 {
-  "diff_date": "2026-03-19 17:12 JST",
-  "previous_date": "2026-03-19 16:21 JST",
-  "entries": [
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_3500",
-        "roomNo": "000010906",
-        "bukkenName": "光が丘パークタウン 公園南",
-        "address": "練馬区光が丘5-6",
-        "rent": 160400,
-        "commonfee": 6600,
-        "layout": "2LDK",
-        "floorspace": 65,
-        "floor": "9階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3500_room.html?JKSS=000010906",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_350/20_350_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_350/20_350_0-00-0001_A1_RA_01_00009_s.gif"
-      }
-    }
-  ],
-  "new_item_ids": [
-    "20_3500:000010906"
-  ]
+  "diff_date": "2026-03-19 18:15 JST",
+  "previous_date": "2026-03-19 17:12 JST",
+  "entries": [],
+  "new_item_ids": []
 }
