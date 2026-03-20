@@ -1,6 +1,61 @@
 {
-  "diff_date": "2026-03-20 14:24 JST",
-  "previous_date": "2026-03-20 13:34 JST",
-  "entries": [],
+  "diff_date": "2026-03-20 15:18 JST",
+  "previous_date": "2026-03-20 14:24 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_5170",
+        "roomNo": "000000119",
+        "bukkenName": "シティハイツ烏山",
+        "address": "世田谷区北烏山9-21-10",
+        "rent": 152300,
+        "commonfee": 8800,
+        "layout": "1LDK",
+        "floorspace": 66,
+        "floor": "1階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5170_room.html?JKSS=000000119",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_517/20_517_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20517/0000000/E2a/RA/Image/20_517_0-00-0000_E2a_RA_01_00010.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_2250",
+        "roomNo": "310010621",
+        "bukkenName": "高島平",
+        "address": "板橋区高島平2ほか",
+        "rent": 94000,
+        "commonfee": 3800,
+        "layout": "2DK",
+        "floorspace": 48,
+        "floor": "6階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2250_room.html?JKSS=310010621",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_225/20_225_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_225/20_225_3-10-0001_C3ar_RA_01_00004_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_1640",
+        "roomNo": "000030838",
+        "bukkenName": "日の出町",
+        "address": "足立区日ノ出町27",
+        "rent": 98700,
+        "commonfee": 4200,
+        "layout": "2DK",
+        "floorspace": 43,
+        "floor": "8階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1640_room.html?JKSS=000030838",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_164/20_164_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20164/0000003/C1cm/RA/Image/20_164_0-00-0003_C1cm_RA_01_00009.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
