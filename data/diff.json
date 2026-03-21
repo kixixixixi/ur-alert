@@ -1,9 +1,45 @@
 {
-  "diff_date": "2026-03-21 11:54 JST",
-  "previous_date": "2026-03-20 18:13 JST",
+  "diff_date": "2026-03-21 13:31 JST",
+  "previous_date": "2026-03-21 11:54 JST",
   "entries": [
     {
-      "type": "removed",
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_4890",
+        "roomNo": "000001201",
+        "bukkenName": "ビオトープしたや",
+        "address": "台東区下谷3-14-3",
+        "rent": 150600,
+        "commonfee": 11500,
+        "layout": "2DK",
+        "floorspace": 62,
+        "floor": "12階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4890_room.html?JKSS=000001201",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_489/20_489_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_489/20_489_0-00-0000_C_RA_01_00005_s.gif"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_7040",
+        "roomNo": "000001205",
+        "bukkenName": "サンマークシティ日暮里ステーションポートタワー",
+        "address": "荒川区西日暮里2-20",
+        "rent": 197500,
+        "commonfee": 6900,
+        "layout": "1LDK",
+        "floorspace": 54,
+        "floor": "12階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7040_room.html?JKSS=000001205",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_704/20_704_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_704/20_704_0-00-0000_E_RA_01_00002_s.gif"
+      }
+    },
+    {
+      "type": "new",
       "item": {
         "bukkenNo": "20_1301",
         "roomNo": "000340604",
@@ -21,23 +57,28 @@
       }
     },
     {
-      "type": "removed",
+      "type": "new",
       "item": {
-        "bukkenNo": "20_1600",
-        "roomNo": "000015401",
-        "bukkenName": "栗原",
-        "address": "足立区栗原2-5ほか",
-        "rent": 79800,
-        "commonfee": 4270,
-        "layout": "2DK",
-        "floorspace": 39,
-        "floor": "4階",
+        "bukkenNo": "20_1310",
+        "roomNo": "000012506",
+        "bukkenName": "竹の塚第二",
+        "address": "足立区竹の塚1-5ほか",
+        "rent": 90700,
+        "commonfee": 4800,
+        "layout": "2LDK",
+        "floorspace": 50,
+        "floor": "5階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1600_room.html?JKSS=000015401",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_160/20_160_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20160/0000015/C2a/RA/Image/20_160_0-00-0015_C2a_RA_01_00005.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1310_room.html?JKSS=000012506",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_131/20_131_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20131/0000012/D1ar/RA/Image/20_131_0-00-0012_D1ar_RA_01_00003.gif"
       }
     }
   ],
-  "new_item_ids": []
+  "new_item_ids": [
+    "20_4890:000001201",
+    "20_7040:000001205",
+    "20_1301:000340604",
+    "20_1310:000012506"
+  ]
 }
