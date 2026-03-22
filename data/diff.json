@@ -1,25 +1,6 @@
 {
-  "diff_date": "2026-03-22 13:38 JST",
-  "previous_date": "2026-03-22 12:02 JST",
-  "entries": [
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_7040",
-        "roomNo": "000001205",
-        "bukkenName": "サンマークシティ日暮里ステーションポートタワー",
-        "address": "荒川区西日暮里2-20",
-        "rent": 197500,
-        "commonfee": 6900,
-        "layout": "1LDK",
-        "floorspace": 54,
-        "floor": "12階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7040_room.html?JKSS=000001205",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_704/20_704_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_704/20_704_0-00-0000_E_RA_01_00002_s.gif"
-      }
-    }
-  ],
+  "diff_date": "2026-03-22 14:26 JST",
+  "previous_date": "2026-03-22 13:38 JST",
+  "entries": [],
   "new_item_ids": []
 }
