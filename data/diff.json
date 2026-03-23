@@ -1,27 +1,65 @@
 {
-  "diff_date": "2026-03-23 12:03 JST",
-  "previous_date": "2026-03-22 18:08 JST",
+  "diff_date": "2026-03-23 13:45 JST",
+  "previous_date": "2026-03-23 12:03 JST",
   "entries": [
     {
       "type": "new",
       "item": {
-        "bukkenNo": "20_5250",
-        "roomNo": "000030805",
-        "bukkenName": "パークサイド石神井",
-        "address": "練馬区石神井台3-26 ほか",
-        "rent": 164500,
-        "commonfee": 9900,
-        "layout": "3LDK",
-        "floorspace": 71,
+        "bukkenNo": "20_5780",
+        "roomNo": "000C00801",
+        "bukkenName": "シティコート世田谷給田",
+        "address": "世田谷区給田5-8-5",
+        "rent": 159600,
+        "commonfee": 8100,
+        "layout": "2LDK",
+        "floorspace": 70,
         "floor": "8階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5250_room.html?JKSS=000030805",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_525/20_525_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20525/0000003/D/RA/Image/20_525_0-00-0003_D_RA_01_00008.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5780_room.html?JKSS=000C00801",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_578/20_578_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_578/20_578_0-00-000C_J_RA_01_00004_s.gif"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_3690",
+        "roomNo": "708010503",
+        "bukkenName": "光が丘パークタウン 大通り南",
+        "address": "練馬区光が丘7-3ほか",
+        "rent": 131900,
+        "commonfee": 4700,
+        "layout": "2DK",
+        "floorspace": 55,
+        "floor": "5階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3690_room.html?JKSS=708010503",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_369/20_369_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20378/7080001/Fp/RA/Image/20_378_7-08-0001_Fp_RA_01_00005.gif"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_3350",
+        "roomNo": "000020402",
+        "bukkenName": "西新小岩リバーハイツ",
+        "address": "葛飾区西新小岩2-1",
+        "rent": 86900,
+        "commonfee": 4500,
+        "layout": "1DK",
+        "floorspace": 39,
+        "floor": "4階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3350_room.html?JKSS=000020402",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_335/20_335_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_335/20_335_0-00-0002_Af_RA_01_00007_s.gif"
       }
     }
   ],
   "new_item_ids": [
-    "20_5250:000030805"
+    "20_5780:000C00801",
+    "20_3690:708010503",
+    "20_3350:000020402"
   ]
 }
