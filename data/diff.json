@@ -1,6 +1,63 @@
 {
-  "diff_date": "2026-03-29 16:23 JST",
-  "previous_date": "2026-03-29 15:24 JST",
-  "entries": [],
-  "new_item_ids": []
+  "diff_date": "2026-03-29 17:11 JST",
+  "previous_date": "2026-03-29 16:23 JST",
+  "entries": [
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_7040",
+        "roomNo": "000001205",
+        "bukkenName": "サンマークシティ日暮里ステーションポートタワー",
+        "address": "荒川区西日暮里2-20",
+        "rent": 197500,
+        "commonfee": 6900,
+        "layout": "1LDK",
+        "floorspace": 54,
+        "floor": "12階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7040_room.html?JKSS=000001205",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_704/20_704_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_704/20_704_0-00-0000_E_RA_01_00002_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_2250",
+        "roomNo": "233070322",
+        "bukkenName": "高島平",
+        "address": "板橋区高島平2ほか",
+        "rent": 89100,
+        "commonfee": 4200,
+        "layout": "2DK",
+        "floorspace": 47,
+        "floor": "3階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2250_room.html?JKSS=233070322",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_225/20_225_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20225/2330007/CBf/RA/Image/20_225_2-33-0007_CBf_RA_01_00005.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_5250",
+        "roomNo": "000090402",
+        "bukkenName": "パークサイド石神井",
+        "address": "練馬区石神井台3-26 ほか",
+        "rent": 116600,
+        "commonfee": 9900,
+        "layout": "2DK",
+        "floorspace": 47,
+        "floor": "4階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5250_room.html?JKSS=000090402",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_525/20_525_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_525/20_525_0-00-0009_Es_RA_01_00006_s.gif"
+      }
+    }
+  ],
+  "new_item_ids": [
+    "20_7040:000001205"
+  ]
 }
