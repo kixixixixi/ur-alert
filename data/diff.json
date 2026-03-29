@@ -1,27 +1,6 @@
 {
-  "diff_date": "2026-03-29 15:24 JST",
-  "previous_date": "2026-03-29 13:49 JST",
-  "entries": [
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_2250",
-        "roomNo": "233070322",
-        "bukkenName": "高島平",
-        "address": "板橋区高島平2ほか",
-        "rent": 89100,
-        "commonfee": 4200,
-        "layout": "2DK",
-        "floorspace": 47,
-        "floor": "3階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2250_room.html?JKSS=233070322",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_225/20_225_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20225/2330007/CBf/RA/Image/20_225_2-33-0007_CBf_RA_01_00005.gif"
-      }
-    }
-  ],
-  "new_item_ids": [
-    "20_2250:233070322"
-  ]
+  "diff_date": "2026-03-29 16:23 JST",
+  "previous_date": "2026-03-29 15:24 JST",
+  "entries": [],
+  "new_item_ids": []
 }
