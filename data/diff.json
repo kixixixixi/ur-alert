@@ -1,9 +1,27 @@
 {
-  "diff_date": "2026-03-31 13:48 JST",
-  "previous_date": "2026-03-31 12:03 JST",
+  "diff_date": "2026-03-31 15:28 JST",
+  "previous_date": "2026-03-31 13:48 JST",
   "entries": [
     {
-      "type": "new",
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_6710",
+        "roomNo": "000180202",
+        "bukkenName": "芦花公園",
+        "address": "世田谷区南烏山2-30",
+        "rent": 159800,
+        "commonfee": 6300,
+        "layout": "2DK",
+        "floorspace": 50,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6710_room.html?JKSS=000180202",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_671/20_671_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_671/20_671_0-00-0018_H_RA_01_00002_s.gif"
+      }
+    },
+    {
+      "type": "removed",
       "item": {
         "bukkenNo": "20_3690",
         "roomNo": "708010503",
@@ -19,82 +37,7 @@
         "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_369/20_369_photo_s.jpg",
         "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20378/7080001/Fp/RA/Image/20_378_7-08-0001_Fp_RA_01_00005.gif"
       }
-    },
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_2860",
-        "roomNo": "000010812",
-        "bukkenName": "青戸第三",
-        "address": "葛飾区青戸3-11",
-        "rent": 93500,
-        "commonfee": 2900,
-        "layout": "1LDK",
-        "floorspace": 48,
-        "floor": "8階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2860_room.html?JKSS=000010812",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_286/20_286_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20286/0000001/B2af/RA/Image/20_286_0-00-0001_B2af_RA_01_00004.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_1920",
-        "roomNo": "000030309",
-        "bukkenName": "大島六丁目",
-        "address": "江東区大島6-1",
-        "rent": 116100,
-        "commonfee": 4200,
-        "layout": "1LDK",
-        "floorspace": 53,
-        "floor": "3階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1920_room.html?JKSS=000030309",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_192/20_192_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20192/0000003/102b/RA/Image/20_192_0-00-0003_102b_RA_01_00008.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_4560",
-        "roomNo": "000040105",
-        "bukkenName": "エステート千歳希望ヶ丘【シルバーピア（高齢者向け住宅）】",
-        "address": "世田谷区船橋7-8-4",
-        "rent": 150200,
-        "commonfee": 7500,
-        "layout": "3DK",
-        "floorspace": 64,
-        "floor": "1階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4560_room.html?JKSS=000040105",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_456/20_456_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20456/0000004/K/RA/Image/20_456_0-00-0004_K_RA_01_00006.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_2810",
-        "roomNo": "000021114",
-        "bukkenName": "大谷田一丁目",
-        "address": "足立区大谷田1-1",
-        "rent": 95800,
-        "commonfee": 3700,
-        "layout": "2LDK",
-        "floorspace": 62,
-        "floor": "11階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2810_room.html?JKSS=000021114",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_281/20_281_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20281/0000002/D1by/RA/Image/20_281_0-00-0002_D1by_RA_01_00006.gif"
-      }
     }
   ],
-  "new_item_ids": [
-    "20_3690:708010503",
-    "20_2860:000010812"
-  ]
+  "new_item_ids": []
 }
