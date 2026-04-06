@@ -1,9 +1,9 @@
 {
-  "diff_date": "2026-04-06 12:04 JST",
-  "previous_date": "2026-04-05 18:14 JST",
+  "diff_date": "2026-04-06 13:56 JST",
+  "previous_date": "2026-04-06 12:04 JST",
   "entries": [
     {
-      "type": "new",
+      "type": "removed",
       "item": {
         "bukkenNo": "20_1920",
         "roomNo": "000020215",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "type": "new",
+      "type": "removed",
       "item": {
         "bukkenNo": "20_3460",
         "roomNo": "000020509",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "type": "new",
+      "type": "removed",
       "item": {
         "bukkenNo": "20_2320",
         "roomNo": "000051221",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "type": "new",
+      "type": "removed",
       "item": {
         "bukkenNo": "20_2320",
         "roomNo": "000070133",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "type": "new",
+      "type": "removed",
       "item": {
         "bukkenNo": "20_4010",
         "roomNo": "000000412",
@@ -93,11 +93,5 @@
       }
     }
   ],
-  "new_item_ids": [
-    "20_1920:000020215",
-    "20_3460:000020509",
-    "20_2320:000051221",
-    "20_2320:000070133",
-    "20_4010:000000412"
-  ]
+  "new_item_ids": []
 }
