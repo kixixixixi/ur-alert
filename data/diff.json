@@ -1,43 +1,6 @@
 {
-  "diff_date": "2026-04-06 17:32 JST",
-  "previous_date": "2026-04-06 15:37 JST",
-  "entries": [
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_2340",
-        "roomNo": "708020210",
-        "bukkenName": "希望ヶ丘",
-        "address": "世田谷区船橋6ほか",
-        "rent": 80600105600,
-        "commonfee": 3600,
-        "layout": "2DK",
-        "floorspace": 45,
-        "floor": "2階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340_room.html?JKSS=708020210",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_234/20_234_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_234/20_234_7-08-0002_CCm_RA_01_00008_s.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_2860",
-        "roomNo": "000010812",
-        "bukkenName": "青戸第三",
-        "address": "葛飾区青戸3-11",
-        "rent": 98300,
-        "commonfee": 2900,
-        "layout": "1LDK",
-        "floorspace": 48,
-        "floor": "8階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2860_room.html?JKSS=000010812",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_286/20_286_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20286/0000001/B2af/RA/Image/20_286_0-00-0001_B2af_RA_01_00004.gif"
-      }
-    }
-  ],
+  "diff_date": "2026-04-06 18:28 JST",
+  "previous_date": "2026-04-06 17:32 JST",
+  "entries": [],
   "new_item_ids": []
 }
