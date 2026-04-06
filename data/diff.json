@@ -1,27 +1,6 @@
 {
-  "diff_date": "2026-04-06 14:46 JST",
-  "previous_date": "2026-04-06 13:56 JST",
-  "entries": [
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_2340",
-        "roomNo": "708020210",
-        "bukkenName": "希望ヶ丘",
-        "address": "世田谷区船橋6ほか",
-        "rent": 80600105600,
-        "commonfee": 3600,
-        "layout": "2DK",
-        "floorspace": 45,
-        "floor": "2階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340_room.html?JKSS=708020210",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_234/20_234_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_234/20_234_7-08-0002_CCm_RA_01_00008_s.gif"
-      }
-    }
-  ],
-  "new_item_ids": [
-    "20_2340:708020210"
-  ]
+  "diff_date": "2026-04-06 15:37 JST",
+  "previous_date": "2026-04-06 14:46 JST",
+  "entries": [],
+  "new_item_ids": []
 }
