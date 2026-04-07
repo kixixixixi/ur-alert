@@ -1,41 +1,41 @@
 {
-  "diff_date": "2026-04-07 13:48 JST",
-  "previous_date": "2026-04-07 12:03 JST",
+  "diff_date": "2026-04-07 15:31 JST",
+  "previous_date": "2026-04-07 13:48 JST",
   "entries": [
     {
       "type": "removed",
       "item": {
-        "bukkenNo": "20_2320",
-        "roomNo": "000051430",
-        "bukkenName": "豊島五丁目",
-        "address": "北区豊島5-4ほか",
-        "rent": 94300,
-        "commonfee": 3300,
-        "layout": "1LDK",
-        "floorspace": 48,
-        "floor": "14階",
+        "bukkenNo": "20_4040",
+        "roomNo": "000000903",
+        "bukkenName": "曳舟駅前プラザ",
+        "address": "墨田区京島1-38-1",
+        "rent": 163100,
+        "commonfee": 3500,
+        "layout": "3DK",
+        "floorspace": 62,
+        "floor": "9階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000051430",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_232/20_232_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_232/20_232_0-00-0005_103m_RA_01_00006_s.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4040_room.html?JKSS=000000903",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_404/20_404_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_404/20_404_0-00-0000_E_RA_01_00009_s.gif"
       }
     },
     {
       "type": "removed",
       "item": {
-        "bukkenNo": "20_2320",
-        "roomNo": "000070133",
-        "bukkenName": "豊島五丁目",
-        "address": "北区豊島5-4ほか",
-        "rent": 82600,
-        "commonfee": 3300,
-        "layout": "2DK",
-        "floorspace": 49,
-        "floor": "1階",
+        "bukkenNo": "20_6870",
+        "roomNo": "000030806",
+        "bukkenName": "プロムナード荻窪",
+        "address": "杉並区桃井3-7",
+        "rent": 229200,
+        "commonfee": 10500,
+        "layout": "2LDK",
+        "floorspace": 78,
+        "floor": "8階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000070133",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_232/20_232_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_232/20_232_0-00-0007_C4cm_RA_01_00006_s.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6870_room.html?JKSS=000030806",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_687/20_687_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_687/20_687_0-00-0003_Mf_RA_01_00004_s.gif"
       }
     }
   ],
