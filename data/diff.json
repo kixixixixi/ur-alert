@@ -1,6 +1,25 @@
 {
-  "diff_date": "2026-04-08 13:50 JST",
-  "previous_date": "2026-04-08 12:03 JST",
-  "entries": [],
+  "diff_date": "2026-04-08 14:34 JST",
+  "previous_date": "2026-04-08 13:50 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_4000",
+        "roomNo": "133010828",
+        "bukkenName": "哲学堂公園ハイツ",
+        "address": "新宿区西落合2-20-1、中野区松が丘1-33-1",
+        "rent": 167600,
+        "commonfee": 7650,
+        "layout": "2LDK",
+        "floorspace": 58,
+        "floor": "8階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4000_room.html?JKSS=133010828",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_400/20_400_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_400/20_400_1-33-0001_Bf_RA_01_00007_s.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
