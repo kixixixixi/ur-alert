@@ -1,27 +1,9 @@
 {
-  "diff_date": "2026-04-10 12:04 JST",
-  "previous_date": "2026-04-09 18:28 JST",
+  "diff_date": "2026-04-10 13:57 JST",
+  "previous_date": "2026-04-10 12:04 JST",
   "entries": [
     {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_4560",
-        "roomNo": "000040105",
-        "bukkenName": "エステート千歳希望ヶ丘【シルバーピア（高齢者向け住宅）】",
-        "address": "世田谷区船橋7-8-4",
-        "rent": 150200,
-        "commonfee": 7500,
-        "layout": "3DK",
-        "floorspace": 64,
-        "floor": "1階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4560_room.html?JKSS=000040105",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_456/20_456_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20456/0000004/K/RA/Image/20_456_0-00-0004_K_RA_01_00006.gif"
-      }
-    },
-    {
-      "type": "new",
+      "type": "removed",
       "item": {
         "bukkenNo": "20_5170",
         "roomNo": "000000518",
@@ -39,7 +21,7 @@
       }
     },
     {
-      "type": "new",
+      "type": "removed",
       "item": {
         "bukkenNo": "20_4010",
         "roomNo": "000000614",
@@ -55,48 +37,7 @@
         "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_401/20_401_photo_s.jpg",
         "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20401/0000000/B/RA/Image/20_401_0-00-0000_B_RA_01_00006.gif"
       }
-    },
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_1170",
-        "roomNo": "000031405",
-        "bukkenName": "花畑",
-        "address": "足立区花畑5",
-        "rent": 66100,
-        "commonfee": 4500,
-        "layout": "3K",
-        "floorspace": 43,
-        "floor": "4階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1170_room.html?JKSS=000031405",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_117/20_117_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20117/0000031/3A/RA/Image/20_117_0-00-0031_3A_RA_01_00006.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_2540",
-        "roomNo": "000041223",
-        "bukkenName": "小島町二丁目",
-        "address": "江戸川区西葛西5-8ほか",
-        "rent": 118200,
-        "commonfee": 3000,
-        "layout": "1LDK",
-        "floorspace": 48,
-        "floor": "12階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2540_room.html?JKSS=000041223",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_254/20_254_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_254/20_254_0-00-0004_B3ar_RA_01_00004_s.gif"
-      }
     }
   ],
-  "new_item_ids": [
-    "20_4560:000040105",
-    "20_5170:000000518",
-    "20_4010:000000614",
-    "20_1170:000031405"
-  ]
+  "new_item_ids": []
 }
