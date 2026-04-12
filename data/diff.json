@@ -1,6 +1,45 @@
 {
-  "diff_date": "2026-04-12 16:30 JST",
-  "previous_date": "2026-04-12 15:32 JST",
-  "entries": [],
-  "new_item_ids": []
+  "diff_date": "2026-04-12 17:17 JST",
+  "previous_date": "2026-04-12 16:30 JST",
+  "entries": [
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_2320",
+        "roomNo": "000100923",
+        "bukkenName": "豊島五丁目",
+        "address": "北区豊島5-4ほか",
+        "rent": 87700,
+        "commonfee": 3300,
+        "layout": "2DK",
+        "floorspace": 49,
+        "floor": "9階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2320_room.html?JKSS=000100923",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_232/20_232_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_232/20_232_0-00-0010_C4cx_RA_01_00006_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_1310",
+        "roomNo": "000026103",
+        "bukkenName": "竹の塚第二",
+        "address": "足立区竹の塚1-5ほか",
+        "rent": 79400,
+        "commonfee": 4800,
+        "layout": "2DK",
+        "floorspace": 39,
+        "floor": "1階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1310_room.html?JKSS=000026103",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_131/20_131_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp/"
+      }
+    }
+  ],
+  "new_item_ids": [
+    "20_2320:000100923"
+  ]
 }
