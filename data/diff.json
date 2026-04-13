@@ -1,61 +1,6 @@
 {
-  "diff_date": "2026-04-13 15:43 JST",
-  "previous_date": "2026-04-13 14:03 JST",
-  "entries": [
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_1780",
-        "roomNo": "000031313",
-        "bukkenName": "大島四丁目",
-        "address": "江東区大島4-1",
-        "rent": 79700,
-        "commonfee": 3900,
-        "layout": "2DK",
-        "floorspace": 43,
-        "floor": "13階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1780_room.html?JKSS=000031313",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_178/20_178_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_178/20_178_0-00-0003_C4am_RA_01_00003_s.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_5820",
-        "roomNo": "000110201",
-        "bukkenName": "ヴェッセル木場南",
-        "address": "江東区塩浜2-18",
-        "rent": 152400,
-        "commonfee": 4000,
-        "layout": "2LDK",
-        "floorspace": 75,
-        "floor": "2階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5820_room.html?JKSS=000110201",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_582/20_582_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_582/20_582_0-00-0011_Lm_RA_01_00006_s.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_3550",
-        "roomNo": "003130104",
-        "bukkenName": "品川八潮パークタウン 潮路北第二ハイツ",
-        "address": "品川区八潮5-3",
-        "rent": 170200,
-        "commonfee": 2800,
-        "layout": "3LDK",
-        "floorspace": 84,
-        "floor": "1階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3550_room.html?JKSS=003130104",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_355/20_355_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20355/0030013/E1at/RA/Image/20_355_0-03-0013_E1at_RA_01_00014.gif"
-      }
-    }
-  ],
+  "diff_date": "2026-04-13 16:35 JST",
+  "previous_date": "2026-04-13 15:43 JST",
+  "entries": [],
   "new_item_ids": []
 }
