@@ -1,6 +1,25 @@
 {
-  "diff_date": "2026-04-21 15:37 JST",
-  "previous_date": "2026-04-21 14:48 JST",
-  "entries": [],
+  "diff_date": "2026-04-21 17:36 JST",
+  "previous_date": "2026-04-21 15:37 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_6710",
+        "roomNo": "000110205",
+        "bukkenName": "芦花公園",
+        "address": "世田谷区南烏山2-30",
+        "rent": 193000,
+        "commonfee": 6300,
+        "layout": "1LDK",
+        "floorspace": 57,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6710_room.html?JKSS=000110205",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_671/20_671_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_671/20_671_0-00-0011_B_RA_01_00001_s.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
