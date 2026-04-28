@@ -1,6 +1,43 @@
 {
-  "diff_date": "2026-04-28 17:49 JST",
-  "previous_date": "2026-04-28 16:47 JST",
-  "entries": [],
+  "diff_date": "2026-04-28 18:47 JST",
+  "previous_date": "2026-04-28 17:49 JST",
+  "entries": [
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_1780",
+        "roomNo": "000020916",
+        "bukkenName": "大島四丁目",
+        "address": "江東区大島4-1",
+        "rent": 104200,
+        "commonfee": 3900,
+        "layout": "2LDK",
+        "floorspace": 48,
+        "floor": "9階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1780_room.html?JKSS=000020916",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_178/20_178_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_178/20_178_0-00-0002_2A_RA_01_00010_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_0420",
+        "roomNo": "000005102",
+        "bukkenName": "野方",
+        "address": "中野区野方5-7",
+        "rent": 118400,
+        "commonfee": 6700,
+        "layout": "1LDK",
+        "floorspace": 46,
+        "floor": "1階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_0420_room.html?JKSS=000005102",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_042/20_042_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_042/20_042_0-00-0005_C_RA_01_00003_s.gif"
+      }
+    }
+  ],
   "new_item_ids": []
 }
