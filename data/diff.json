@@ -1,6 +1,84 @@
 {
-  "diff_date": "2026-04-29 18:42 JST",
-  "previous_date": "2026-04-29 17:46 JST",
-  "entries": [],
-  "new_item_ids": []
+  "diff_date": "2026-04-30 12:06 JST",
+  "previous_date": "2026-04-29 18:42 JST",
+  "entries": [
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_3550",
+        "roomNo": "003111204",
+        "bukkenName": "品川八潮パークタウン 潮路北第二ハイツ",
+        "address": "品川区八潮5-3",
+        "rent": 160100,
+        "commonfee": 5400,
+        "layout": "2LDK",
+        "floorspace": 69,
+        "floor": "12階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3550_room.html?JKSS=003111204",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_355/20_355_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20355/0030011/C3at/RA/Image/20_355_0-03-0011_C3at_RA_01_00019.gif"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_3640",
+        "roomNo": "006370311",
+        "bukkenName": "品川八潮パークタウン 潮路南第一ハイツ",
+        "address": "品川区八潮5-6",
+        "rent": 156900,
+        "commonfee": 4020,
+        "layout": "2LDK",
+        "floorspace": 69,
+        "floor": "3階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3640_room.html?JKSS=006370311",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_364/20_364_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20364/0060037/H1af/RA/Image/20_364_0-06-0037_H1af_RA_01_00029.gif"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_2340",
+        "roomNo": "701010614",
+        "bukkenName": "希望ヶ丘",
+        "address": "世田谷区船橋6ほか",
+        "rent": 117800,
+        "commonfee": 3600,
+        "layout": "1K",
+        "floorspace": 45,
+        "floor": "6階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340_room.html?JKSS=701010614",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_234/20_234_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_234/20_234_7-01-0001_102r_RA_01_00008_s.gif"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_5170",
+        "roomNo": "000000407",
+        "bukkenName": "シティハイツ烏山",
+        "address": "世田谷区北烏山9-21-10",
+        "rent": 162100,
+        "commonfee": 8800,
+        "layout": "2LDK",
+        "floorspace": 66,
+        "floor": "4階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5170_room.html?JKSS=000000407",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_517/20_517_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20517/0000000/G/RA/Image/20_517_0-00-0000_G_RA_01_00010.gif"
+      }
+    }
+  ],
+  "new_item_ids": [
+    "20_3550:003111204",
+    "20_3640:006370311",
+    "20_2340:701010614",
+    "20_5170:000000407"
+  ]
 }
