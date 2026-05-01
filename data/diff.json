@@ -1,45 +1,6 @@
 {
-  "diff_date": "2026-05-01 16:45 JST",
-  "previous_date": "2026-05-01 15:54 JST",
-  "entries": [
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_5590",
-        "roomNo": "000000409",
-        "bukkenName": "スクエアー世田谷桜丘",
-        "address": "世田谷区桜丘1-2-20",
-        "rent": 160000,
-        "commonfee": 8300,
-        "layout": "1LDK",
-        "floorspace": 48,
-        "floor": "4階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5590_room.html?JKSS=000000409",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_559/20_559_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_559/20_559_0-00-0000_Hp_RA_01_00008_s.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_6950",
-        "roomNo": "000001211",
-        "bukkenName": "イーストコモンズ清澄白河セントラルタワー",
-        "address": "江東区白河4-3-1",
-        "rent": 189900,
-        "commonfee": 6500,
-        "layout": "1LDK",
-        "floorspace": 51,
-        "floor": "12階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6950_room.html?JKSS=000001211",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_695/20_695_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_695/20_695_0-00-0000_G_RA_01_00003_s.gif"
-      }
-    }
-  ],
-  "new_item_ids": [
-    "20_5590:000000409"
-  ]
+  "diff_date": "2026-05-01 17:39 JST",
+  "previous_date": "2026-05-01 16:45 JST",
+  "entries": [],
+  "new_item_ids": []
 }
