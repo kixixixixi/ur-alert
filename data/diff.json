@@ -1,25 +1,45 @@
 {
-  "diff_date": "2026-05-03 14:08 JST",
-  "previous_date": "2026-05-03 12:05 JST",
+  "diff_date": "2026-05-03 15:51 JST",
+  "previous_date": "2026-05-03 14:08 JST",
   "entries": [
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_4150",
+        "roomNo": "000000505",
+        "bukkenName": "コラム南青山",
+        "address": "港区南青山7-1-5",
+        "rent": 215800,
+        "commonfee": 7000,
+        "layout": "1DK",
+        "floorspace": 46,
+        "floor": "5階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4150_room.html?JKSS=000000505",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_415/20_415_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20415/0000000/B3/RA/Image/20_415_0-00-0000_B3_RA_01_00010.gif"
+      }
+    },
     {
       "type": "removed",
       "item": {
-        "bukkenNo": "20_1780",
-        "roomNo": "000020608",
-        "bukkenName": "大島四丁目",
-        "address": "江東区大島4-1",
-        "rent": 89300,
-        "commonfee": 3900,
+        "bukkenNo": "20_3470",
+        "roomNo": "000140210",
+        "bukkenName": "光が丘パークタウン ゆりの木通り北",
+        "address": "板橋区赤塚新町3-32",
+        "rent": 137000,
+        "commonfee": 6200,
         "layout": "2LDK",
-        "floorspace": 48,
-        "floor": "6階",
+        "floorspace": 61,
+        "floor": "2階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1780_room.html?JKSS=000020608",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_178/20_178_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_178/20_178_0-00-0002_2A1_RA_01_00012_s.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3470_room.html?JKSS=000140210",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_347/20_347_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20347/0000014/Bs/RA/Image/20_347_0-00-0014_Bs_RA_01_00012.gif"
       }
     }
   ],
-  "new_item_ids": []
+  "new_item_ids": [
+    "20_4150:000000505"
+  ]
 }
