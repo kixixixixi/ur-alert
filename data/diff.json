@@ -1,6 +1,101 @@
 {
-  "diff_date": "2026-05-08 12:04 JST",
-  "previous_date": "2026-05-08 10:35 JST",
-  "entries": [],
-  "new_item_ids": []
+  "diff_date": "2026-05-08 14:01 JST",
+  "previous_date": "2026-05-08 12:04 JST",
+  "entries": [
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_6630",
+        "roomNo": "000020604",
+        "bukkenName": "リバーハープコート南千住",
+        "address": "荒川区南千住3-41",
+        "rent": 161400,
+        "commonfee": 6100,
+        "layout": "2LDK",
+        "floorspace": 65,
+        "floor": "6階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6630_room.html?JKSS=000020604",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_663/20_663_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20663/0000002/Hf/RA/Image/20_663_0-00-0002_Hf_RA_01_00005.gif"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_7000",
+        "roomNo": "000030205",
+        "bukkenName": "パークタウン東綾瀬",
+        "address": "足立区東綾瀬2-5ほか",
+        "rent": 129900,
+        "commonfee": 5500,
+        "layout": "2LDK",
+        "floorspace": 58,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7000_room.html?JKSS=000030205",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_700/20_700_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_700/20_700_0-00-0003_2Kf_RA_01_00003_s.gif"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "bukkenNo": "20_5840",
+        "roomNo": "022120504",
+        "bukkenName": "アクシス東四つ木",
+        "address": "葛飾区東四つ木2-27-1ほか",
+        "rent": 146300,
+        "commonfee": 4300,
+        "layout": "2LDK",
+        "floorspace": 64,
+        "floor": "5階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5840_room.html?JKSS=022120504",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_584/20_584_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_584/20_584_0-22-0012_H_RA_01_00004_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_6350",
+        "roomNo": "000001104",
+        "bukkenName": "アクシス台東",
+        "address": "台東区台東1-25-12",
+        "rent": 143400,
+        "commonfee": 8700,
+        "layout": "1K",
+        "floorspace": 37,
+        "floor": "11階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6350_room.html?JKSS=000001104",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_635/20_635_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_635/20_635_0-00-0000_Ap_RA_01_00004_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_5440",
+        "roomNo": "000140702",
+        "bukkenName": "フレール西経堂",
+        "address": "世田谷区船橋5-17",
+        "rent": 163100,
+        "commonfee": 5470,
+        "layout": "2DK",
+        "floorspace": 52,
+        "floor": "7階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5440_room.html?JKSS=000140702",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_544/20_544_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_544/20_544_0-00-0014_A1_RA_01_00005_s.gif"
+      }
+    }
+  ],
+  "new_item_ids": [
+    "20_6630:000020604",
+    "20_7000:000030205",
+    "20_5840:022120504"
+  ]
 }
