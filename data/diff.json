@@ -1,59 +1,23 @@
 {
-  "diff_date": "2026-05-14 17:55 JST",
-  "previous_date": "2026-05-14 16:00 JST",
+  "diff_date": "2026-05-14 18:50 JST",
+  "previous_date": "2026-05-14 17:55 JST",
   "entries": [
     {
       "type": "removed",
       "item": {
-        "bukkenNo": "20_7100",
-        "roomNo": "000004704",
-        "bukkenName": "ベイシティ晴海スカイリンクタワー",
-        "address": "中央区晴海3-6-8",
-        "rent": 330400,
-        "commonfee": 5000,
+        "bukkenNo": "20_6740",
+        "roomNo": "000020307",
+        "bukkenName": "ハートアイランド新田一番街",
+        "address": "足立区新田3―36",
+        "rent": 121400,
+        "commonfee": 7600,
         "layout": "1LDK",
-        "floorspace": 74,
-        "floor": "47階",
+        "floorspace": 55,
+        "floor": "3階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7100_room.html?JKSS=000004704",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_710/20_710_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_710/20_710_0-00-0000_16_RA_01_00003_s.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_3460",
-        "roomNo": "000031303",
-        "bukkenName": "東大島駅前ハイツ",
-        "address": "江東区大島7-39",
-        "rent": 139900,
-        "commonfee": 4000,
-        "layout": "2LDK",
-        "floorspace": 64,
-        "floor": "13階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3460_room.html?JKSS=000031303",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_346/20_346_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_346/20_346_0-00-0003_Cf_RA_01_00007_s.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_2810",
-        "roomNo": "000070808",
-        "bukkenName": "大谷田一丁目",
-        "address": "足立区大谷田1-1",
-        "rent": 84300,
-        "commonfee": 3700,
-        "layout": "2DK",
-        "floorspace": 49,
-        "floor": "8階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2810_room.html?JKSS=000070808",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_281/20_281_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20281/0000007/C2cy/RA/Image/20_281_0-00-0007_C2cy_RA_01_00007.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6740_room.html?JKSS=000020307",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_674/20_674_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_674/20_674_0-00-0002_Dr_RA_01_00005_s.gif"
       }
     }
   ],
