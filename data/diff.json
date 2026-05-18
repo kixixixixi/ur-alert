@@ -1,9 +1,27 @@
 {
-  "diff_date": "2026-05-18 16:22 JST",
-  "previous_date": "2026-05-18 14:23 JST",
+  "diff_date": "2026-05-18 18:10 JST",
+  "previous_date": "2026-05-18 16:22 JST",
   "entries": [
     {
       "type": "new",
+      "item": {
+        "bukkenNo": "20_2770",
+        "roomNo": "000010401",
+        "bukkenName": "エステート篠崎（下篠崎町）",
+        "address": "江戸川区下篠崎町18",
+        "rent": 93100,
+        "commonfee": 4900,
+        "layout": "2DK",
+        "floorspace": 48,
+        "floor": "4階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2770_room.html?JKSS=000010401",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_277/20_277_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_277/20_277_0-00-0001_A1af_RA_01_00006_s.gif"
+      }
+    },
+    {
+      "type": "removed",
       "item": {
         "bukkenNo": "20_1640",
         "roomNo": "000040708",
@@ -23,23 +41,23 @@
     {
       "type": "removed",
       "item": {
-        "bukkenNo": "20_5900",
-        "roomNo": "000030805",
-        "bukkenName": "シティコート大島",
-        "address": "江東区大島6-14",
-        "rent": 182700,
-        "commonfee": 5500,
-        "layout": "2DK",
-        "floorspace": 59,
-        "floor": "8階",
+        "bukkenNo": "20_6740",
+        "roomNo": "000020307",
+        "bukkenName": "ハートアイランド新田一番街",
+        "address": "足立区新田3―36",
+        "rent": 121400,
+        "commonfee": 7600,
+        "layout": "1LDK",
+        "floorspace": 55,
+        "floor": "3階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5900_room.html?JKSS=000030805",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_590/20_590_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_590/20_590_0-00-0003_K_RA_01_00006_s.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6740_room.html?JKSS=000020307",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_674/20_674_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_674/20_674_0-00-0002_Dr_RA_01_00005_s.gif"
       }
     }
   ],
   "new_item_ids": [
-    "20_1640:000040708"
+    "20_2770:000010401"
   ]
 }
