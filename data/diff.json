@@ -1,27 +1,6 @@
 {
-  "diff_date": "2026-05-24 10:40 JST",
-  "previous_date": "2026-05-23 18:34 JST",
-  "entries": [
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_4600",
-        "roomNo": "000030208",
-        "bukkenName": "成城通りパークウエスト",
-        "address": "世田谷区上祖師谷4-2",
-        "rent": 162900,
-        "commonfee": 3800,
-        "layout": "3DK",
-        "floorspace": 60,
-        "floor": "2階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4600_room.html?JKSS=000030208",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_460/20_460_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20460/0000003/R2aA/RA/Image/20_460_0-00-0003_R2aA_RA_01_00014.gif"
-      }
-    }
-  ],
-  "new_item_ids": [
-    "20_4600:000030208"
-  ]
+  "diff_date": "2026-05-24 12:06 JST",
+  "previous_date": "2026-05-24 10:40 JST",
+  "entries": [],
+  "new_item_ids": []
 }
