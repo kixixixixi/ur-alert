@@ -1,119 +1,174 @@
 {
-  "diff_date": "2026-05-29 16:19 JST",
-  "previous_date": "2026-05-29 14:26 JST",
+  "diff_date": "2026-05-29 18:09 JST",
+  "previous_date": "2026-05-29 16:19 JST",
   "entries": [
     {
       "type": "new",
       "item": {
-        "bukkenNo": "20_7100",
-        "roomNo": "000003712",
-        "bukkenName": "ベイシティ晴海スカイリンクタワー",
-        "address": "中央区晴海3-6-8",
-        "rent": 263600,
-        "commonfee": 5000,
+        "bukkenNo": "20_7080",
+        "roomNo": "000002508",
+        "bukkenName": "イーストコア曳舟二番館",
+        "address": "墨田区京島1-1-2",
+        "rent": 190400,
+        "commonfee": 5900,
         "layout": "1K",
-        "floorspace": 60,
-        "floor": "37階",
+        "floorspace": 51,
+        "floor": "25階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7100_room.html?JKSS=000003712",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_710/20_710_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20710/0000000/1F/RA/Image/20_710_0-00-0000_1F_RA_01_00003.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7080_room.html?JKSS=000002508",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_708/20_708_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_708/20_708_0-00-0000_C_RA_01_00002_s.gif"
       }
     },
     {
       "type": "new",
       "item": {
-        "bukkenNo": "20_3640",
-        "roomNo": "006371402",
-        "bukkenName": "品川八潮パークタウン 潮路南第一ハイツ",
-        "address": "品川区八潮5-6",
-        "rent": 164100,
-        "commonfee": 4020,
-        "layout": "2LDK",
-        "floorspace": 69,
-        "floor": "14階",
+        "bukkenNo": "20_1780",
+        "roomNo": "000030555",
+        "bukkenName": "大島四丁目",
+        "address": "江東区大島4-1",
+        "rent": 87300,
+        "commonfee": 3900,
+        "layout": "2DK",
+        "floorspace": 43,
+        "floor": "5階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3640_room.html?JKSS=006371402",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_364/20_364_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20364/0060037/G4ap/RA/Image/20_364_0-06-0037_G4ap_RA_01_00020.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1780_room.html?JKSS=000030555",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_178/20_178_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_178/20_178_0-00-0003_107f_RA_01_00006_s.gif"
       }
     },
     {
       "type": "new",
       "item": {
-        "bukkenNo": "20_5020",
-        "roomNo": "000040607",
-        "bukkenName": "アーバンライフ東新小岩",
-        "address": "葛飾区東新小岩3-8",
-        "rent": 199200,
-        "commonfee": 4300,
-        "layout": "3LDK",
-        "floorspace": 77,
+        "bukkenNo": "20_2250",
+        "roomNo": "226050614",
+        "bukkenName": "高島平",
+        "address": "板橋区高島平2ほか",
+        "rent": 91800,
+        "commonfee": 4200,
+        "layout": "2DK",
+        "floorspace": 46,
         "floor": "6階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5020_room.html?JKSS=000040607",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_502/20_502_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_502/20_502_0-00-0004_F_RA_01_00008_s.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2250_room.html?JKSS=226050614",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_225/20_225_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_225/20_225_2-26-0005_106r_RA_01_00009_s.gif"
       }
     },
     {
-      "type": "removed",
+      "type": "new",
       "item": {
-        "bukkenNo": "20_5820",
-        "roomNo": "000090303",
-        "bukkenName": "ヴェッセル木場南",
-        "address": "江東区塩浜2-18",
-        "rent": 132800,
-        "commonfee": 4000,
-        "layout": "1LDK",
-        "floorspace": 54,
-        "floor": "3階",
+        "bukkenNo": "20_1300",
+        "roomNo": "000023106",
+        "bukkenName": "竹の塚第一",
+        "address": "足立区竹の塚3-11ほか",
+        "rent": 5750082500,
+        "commonfee": 3500,
+        "layout": "2DK",
+        "floorspace": 40,
+        "floor": "1階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5820_room.html?JKSS=000090303",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_582/20_582_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_582/20_582_0-00-0009_D_RA_01_00005_s.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1300_room.html?JKSS=000023106",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_130/20_130_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20130/0000023/CA/RA/Image/20_130_0-00-0023_CA_RA_01_00006.gif"
       }
     },
     {
       "type": "removed",
       "item": {
-        "bukkenNo": "20_6420",
-        "roomNo": "000020301",
-        "bukkenName": "フレール西新井第二",
-        "address": "足立区西新井2-5ほか",
-        "rent": 149900,
-        "commonfee": 6600,
-        "layout": "3LDK",
-        "floorspace": 70,
-        "floor": "3階",
+        "bukkenNo": "20_6530",
+        "roomNo": "000002615",
+        "bukkenName": "ムーンアイランドタワー",
+        "address": "中央区月島2-10-1",
+        "rent": 209200,
+        "commonfee": 6000,
+        "layout": "1DK",
+        "floorspace": 50,
+        "floor": "26階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6420_room.html?JKSS=000020301",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_642/20_642_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_642/20_642_0-00-0002_U_RA_01_00003_s.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6530_room.html?JKSS=000002615",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_653/20_653_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_653/20_653_0-00-0000_F_RA_01_00004_s.gif"
       }
     },
     {
       "type": "removed",
       "item": {
-        "bukkenNo": "20_2160",
-        "roomNo": "030013203",
-        "bukkenName": "江北六丁目",
-        "address": "足立区江北6-30ほか",
-        "rent": 77300,
-        "commonfee": 3300,
+        "bukkenNo": "20_1310",
+        "roomNo": "000009206",
+        "bukkenName": "竹の塚第二",
+        "address": "足立区竹の塚1-5ほか",
+        "rent": 81800,
+        "commonfee": 4800,
         "layout": "2DK",
         "floorspace": 41,
         "floor": "2階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2160_room.html?JKSS=030013203",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_216/20_216_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20216/0300013/C1c/RA/Image/20_216_0-30-0013_C1c_RA_01_00004.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1310_room.html?JKSS=000009206",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_131/20_131_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20131/0000009/C1cm/RA/Image/20_131_0-00-0009_C1cm_RA_01_00003.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_6740",
+        "roomNo": "000020210",
+        "bukkenName": "ハートアイランド新田一番街",
+        "address": "足立区新田3―36",
+        "rent": 150200,
+        "commonfee": 7600,
+        "layout": "3LDK",
+        "floorspace": 74,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6740_room.html?JKSS=000020210",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_674/20_674_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_674/20_674_0-00-0002_bbr_RA_01_00006_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_7000",
+        "roomNo": "000020210",
+        "bukkenName": "パークタウン東綾瀬",
+        "address": "足立区東綾瀬2-5ほか",
+        "rent": 121500,
+        "commonfee": 5500,
+        "layout": "2DK",
+        "floorspace": 50,
+        "floor": "2階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7000_room.html?JKSS=000020210",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_700/20_700_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_700/20_700_0-00-0002_2Av_RA_01_00004_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_2950",
+        "roomNo": "000010307",
+        "bukkenName": "金町第二",
+        "address": "葛飾区南水元3-6ほか",
+        "rent": 107000,
+        "commonfee": 4400,
+        "layout": "2DK",
+        "floorspace": 56,
+        "floor": "3階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2950_room.html?JKSS=000010307",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_295/20_295_photo_s.jpg",
+        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20295/0000001/CAf/RA/Image/20_295_0-00-0001_CAf_RA_01_00004.gif"
       }
     }
   ],
   "new_item_ids": [
-    "20_7100:000003712",
-    "20_3640:006371402",
-    "20_5020:000040607"
+    "20_7080:000002508",
+    "20_1780:000030555",
+    "20_2250:226050614",
+    "20_1300:000023106"
   ]
 }
