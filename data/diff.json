@@ -1,64 +1,6 @@
 {
-  "diff_date": "2026-05-31 10:43 JST",
-  "previous_date": "2026-05-30 18:43 JST",
-  "entries": [
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_2340",
-        "roomNo": "701010608",
-        "bukkenName": "希望ヶ丘",
-        "address": "世田谷区船橋6ほか",
-        "rent": 118300,
-        "commonfee": 3600,
-        "layout": "1K",
-        "floorspace": 45,
-        "floor": "6階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340_room.html?JKSS=701010608",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_234/20_234_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_234/20_234_7-01-0001_102r_RA_01_00008_s.gif"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "bukkenNo": "20_5440",
-        "roomNo": "000090305",
-        "bukkenName": "フレール西経堂",
-        "address": "世田谷区船橋5-17",
-        "rent": 171000,
-        "commonfee": 5470,
-        "layout": "2LDK",
-        "floorspace": 58,
-        "floor": "3階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5440_room.html?JKSS=000090305",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_544/20_544_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_544/20_544_0-00-0009_Df_RA_01_00005_s.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_7080",
-        "roomNo": "000002508",
-        "bukkenName": "イーストコア曳舟二番館",
-        "address": "墨田区京島1-1-2",
-        "rent": 190400,
-        "commonfee": 5900,
-        "layout": "1K",
-        "floorspace": 51,
-        "floor": "25階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7080_room.html?JKSS=000002508",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_708/20_708_photo_s.jpg",
-        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_708/20_708_0-00-0000_C_RA_01_00002_s.gif"
-      }
-    }
-  ],
-  "new_item_ids": [
-    "20_2340:701010608",
-    "20_5440:000090305"
-  ]
+  "diff_date": "2026-05-31 12:07 JST",
+  "previous_date": "2026-05-31 10:43 JST",
+  "entries": [],
+  "new_item_ids": []
 }
