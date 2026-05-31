@@ -1,46 +1,61 @@
 {
-  "diff_date": "2026-05-31 16:18 JST",
-  "previous_date": "2026-05-31 14:30 JST",
+  "diff_date": "2026-05-31 18:02 JST",
+  "previous_date": "2026-05-31 16:18 JST",
   "entries": [
     {
-      "type": "new",
+      "type": "removed",
       "item": {
-        "bukkenNo": "20_4760",
-        "roomNo": "000080108",
-        "bukkenName": "新蓮根",
-        "address": "板橋区蓮根2-30ほか",
-        "rent": 148900,
-        "commonfee": 4000,
-        "layout": "3DK",
-        "floorspace": 62,
-        "floor": "1階",
+        "bukkenNo": "20_5180",
+        "roomNo": "000002612",
+        "bukkenName": "恵比寿ビュータワー",
+        "address": "目黒区三田1-4-4",
+        "rent": 234900,
+        "commonfee": 4500,
+        "layout": "1K",
+        "floorspace": 40,
+        "floor": "26階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4760_room.html?JKSS=000080108",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_476/20_476_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20476/0000008/K/RA/Image/20_476_0-00-0008_K_RA_01_00011.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5180_room.html?JKSS=000002612",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_518/20_518_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_518/20_518_0-00-0000_B3b_RA_01_00015_s.gif"
       }
     },
     {
-      "type": "new",
+      "type": "removed",
       "item": {
-        "bukkenNo": "20_1310",
-        "roomNo": "000009206",
-        "bukkenName": "竹の塚第二",
-        "address": "足立区竹の塚1-5ほか",
-        "rent": 81800,
-        "commonfee": 4800,
-        "layout": "2DK",
-        "floorspace": 41,
-        "floor": "2階",
+        "bukkenNo": "20_5440",
+        "roomNo": "000090305",
+        "bukkenName": "フレール西経堂",
+        "address": "世田谷区船橋5-17",
+        "rent": 171000,
+        "commonfee": 5470,
+        "layout": "2LDK",
+        "floorspace": 58,
+        "floor": "3階",
         "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_1310_room.html?JKSS=000009206",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_131/20_131_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20131/0000009/C1cm/RA/Image/20_131_0-00-0009_C1cm_RA_01_00003.gif"
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5440_room.html?JKSS=000090305",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_544/20_544_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_544/20_544_0-00-0009_Df_RA_01_00005_s.gif"
+      }
+    },
+    {
+      "type": "removed",
+      "item": {
+        "bukkenNo": "20_2770",
+        "roomNo": "000010802",
+        "bukkenName": "エステート篠崎（下篠崎町）",
+        "address": "江戸川区下篠崎町18",
+        "rent": 89400,
+        "commonfee": 4900,
+        "layout": "2DK",
+        "floorspace": 48,
+        "floor": "8階",
+        "status": "募集中",
+        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2770_room.html?JKSS=000010802",
+        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_277/20_277_photo_s.jpg",
+        "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_277/20_277_0-00-0001_Af_RA_01_00007_s.gif"
       }
     }
   ],
-  "new_item_ids": [
-    "20_4760:000080108",
-    "20_1310:000009206"
-  ]
+  "new_item_ids": []
 }
