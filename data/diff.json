@@ -1,43 +1,6 @@
 {
-  "diff_date": "2026-06-11 16:39 JST",
-  "previous_date": "2026-06-11 14:34 JST",
-  "entries": [
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_3640",
-        "roomNo": "006380404",
-        "bukkenName": "品川八潮パークタウン 潮路南第一ハイツ",
-        "address": "品川区八潮5-6",
-        "rent": 153800,
-        "commonfee": 4020,
-        "layout": "3DK",
-        "floorspace": 69,
-        "floor": "4階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3640_room.html?JKSS=006380404",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_364/20_364_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20364/0060038/I/RA/Image/20_364_0-06-0038_I_RA_01_00012.gif"
-      }
-    },
-    {
-      "type": "removed",
-      "item": {
-        "bukkenNo": "20_2340",
-        "roomNo": "708010712",
-        "bukkenName": "希望ヶ丘",
-        "address": "世田谷区船橋6ほか",
-        "rent": 84600,
-        "commonfee": 3600,
-        "layout": "1K",
-        "floorspace": 31,
-        "floor": "7階",
-        "status": "募集中",
-        "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340_room.html?JKSS=708010712",
-        "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_234/20_234_photo_s.jpg",
-        "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20234/7080001/104m/RA/Image/20_234_7-08-0001_104m_RA_01_00009.gif"
-      }
-    }
-  ],
+  "diff_date": "2026-06-11 18:28 JST",
+  "previous_date": "2026-06-11 16:39 JST",
+  "entries": [],
   "new_item_ids": []
 }
