@@ -1,0 +1,35 @@
+{
+  "snapshot_date": "2026-05-18 18:10 JST",
+  "items": [
+    {
+      "bukkenNo": "20_4481",
+      "roomNo": "000040107",
+      "bukkenName": "すまいる亀有",
+      "address": "葛飾区亀有1-10",
+      "rent": 137000,
+      "commonfee": 6900,
+      "layout": "3LDK",
+      "floorspace": 64,
+      "floor": "1階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4481_room.html?JKSS=000040107",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_448/20_448_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20448/0000004/Nx/RA/Image/20_448_0-00-0004_Nx_RA_01_00007.gif"
+    },
+    {
+      "bukkenNo": "20_2770",
+      "roomNo": "000010401",
+      "bukkenName": "エステート篠崎（下篠崎町）",
+      "address": "江戸川区下篠崎町18",
+      "rent": 93100,
+      "commonfee": 4900,
+      "layout": "2DK",
+      "floorspace": 48,
+      "floor": "4階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2770_room.html?JKSS=000010401",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_277/20_277_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_277/20_277_0-00-0001_A1af_RA_01_00006_s.gif"
+    }
+  ]
+}

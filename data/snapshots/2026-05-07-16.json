@@ -1,0 +1,50 @@
+{
+  "snapshot_date": "2026-05-07 16:59 JST",
+  "items": [
+    {
+      "bukkenNo": "20_4920",
+      "roomNo": "000000402",
+      "bukkenName": "デュプレ芝浦",
+      "address": "港区芝浦4-7-5",
+      "rent": 168100,
+      "commonfee": 3600,
+      "layout": "1LDK",
+      "floorspace": 51,
+      "floor": "4階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4920_room.html?JKSS=000000402",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_492/20_492_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_492/20_492_0-00-0000_F_RA_01_00004_s.gif"
+    },
+    {
+      "bukkenNo": "20_2340",
+      "roomNo": "701010614",
+      "bukkenName": "希望ヶ丘",
+      "address": "世田谷区船橋6ほか",
+      "rent": 117800,
+      "commonfee": 3600,
+      "layout": "1K",
+      "floorspace": 45,
+      "floor": "6階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2340_room.html?JKSS=701010614",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_234/20_234_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_234/20_234_7-01-0001_102r_RA_01_00008_s.gif"
+    },
+    {
+      "bukkenNo": "20_5000",
+      "roomNo": "000020108",
+      "bukkenName": "経堂赤堤通り",
+      "address": "世田谷区桜上水1-1",
+      "rent": 177000,
+      "commonfee": 5150,
+      "layout": "3DK",
+      "floorspace": 57,
+      "floor": "1階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5000_room.html?JKSS=000020108",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_500/20_500_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20500/0000002/Kf/RA/Image/20_500_0-00-0002_Kf_RA_01_00007.gif"
+    }
+  ]
+}

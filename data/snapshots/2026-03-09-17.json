@@ -1,0 +1,35 @@
+{
+  "snapshot_date": "2026-03-09 17:12 JST",
+  "items": [
+    {
+      "bukkenNo": "20_5780",
+      "roomNo": "000B00603",
+      "bukkenName": "シティコート世田谷給田",
+      "address": "世田谷区給田5-8-5",
+      "rent": 133100,
+      "commonfee": 8100,
+      "layout": "2DK",
+      "floorspace": 54,
+      "floor": "6階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5780_room.html?JKSS=000B00603",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_578/20_578_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_578/20_578_0-00-000B_Hm_RA_01_00006_s.gif"
+    },
+    {
+      "bukkenNo": "20_4760",
+      "roomNo": "000080404",
+      "bukkenName": "新蓮根",
+      "address": "板橋区蓮根2-30ほか",
+      "rent": 154500,
+      "commonfee": 4000,
+      "layout": "2LDK",
+      "floorspace": 62,
+      "floor": "4階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4760_room.html?JKSS=000080404",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_476/20_476_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20476/0000008/K2a/RA/Image/20_476_0-00-0008_K2a_RA_01_00012.gif"
+    }
+  ]
+}

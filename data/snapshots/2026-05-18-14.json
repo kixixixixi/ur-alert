@@ -1,0 +1,50 @@
+{
+  "snapshot_date": "2026-05-18 14:23 JST",
+  "items": [
+    {
+      "bukkenNo": "20_5900",
+      "roomNo": "000030805",
+      "bukkenName": "シティコート大島",
+      "address": "江東区大島6-14",
+      "rent": 182700,
+      "commonfee": 5500,
+      "layout": "2DK",
+      "floorspace": 59,
+      "floor": "8階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5900_room.html?JKSS=000030805",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_590/20_590_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_590/20_590_0-00-0003_K_RA_01_00006_s.gif"
+    },
+    {
+      "bukkenNo": "20_6740",
+      "roomNo": "000020307",
+      "bukkenName": "ハートアイランド新田一番街",
+      "address": "足立区新田3―36",
+      "rent": 121400,
+      "commonfee": 7600,
+      "layout": "1LDK",
+      "floorspace": 55,
+      "floor": "3階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_6740_room.html?JKSS=000020307",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_674/20_674_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_674/20_674_0-00-0002_Dr_RA_01_00005_s.gif"
+    },
+    {
+      "bukkenNo": "20_4481",
+      "roomNo": "000040107",
+      "bukkenName": "すまいる亀有",
+      "address": "葛飾区亀有1-10",
+      "rent": 137000,
+      "commonfee": 6900,
+      "layout": "3LDK",
+      "floorspace": 64,
+      "floor": "1階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4481_room.html?JKSS=000040107",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_448/20_448_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20448/0000004/Nx/RA/Image/20_448_0-00-0004_Nx_RA_01_00007.gif"
+    }
+  ]
+}

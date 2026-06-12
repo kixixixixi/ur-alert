@@ -1,0 +1,65 @@
+{
+  "snapshot_date": "2026-03-09 14:27 JST",
+  "items": [
+    {
+      "bukkenNo": "20_5780",
+      "roomNo": "000B00603",
+      "bukkenName": "シティコート世田谷給田",
+      "address": "世田谷区給田5-8-5",
+      "rent": 133100,
+      "commonfee": 8100,
+      "layout": "2DK",
+      "floorspace": 54,
+      "floor": "6階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_5780_room.html?JKSS=000B00603",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_578/20_578_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_578/20_578_0-00-000B_Hm_RA_01_00006_s.gif"
+    },
+    {
+      "bukkenNo": "20_4760",
+      "roomNo": "000080404",
+      "bukkenName": "新蓮根",
+      "address": "板橋区蓮根2-30ほか",
+      "rent": 154500,
+      "commonfee": 4000,
+      "layout": "2LDK",
+      "floorspace": 62,
+      "floor": "4階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_4760_room.html?JKSS=000080404",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_476/20_476_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20476/0000008/K2a/RA/Image/20_476_0-00-0008_K2a_RA_01_00012.gif"
+    },
+    {
+      "bukkenNo": "20_2540",
+      "roomNo": "000030218",
+      "bukkenName": "小島町二丁目",
+      "address": "江戸川区西葛西5-8ほか",
+      "rent": 106000,
+      "commonfee": 3000,
+      "layout": "2DK",
+      "floorspace": 48,
+      "floor": "2階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_2540_room.html?JKSS=000030218",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_254/20_254_photo_s.jpg",
+      "madoriUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_madori/20/20_254/20_254_0-00-0003_CBr_RA_01_00007_s.gif"
+    },
+    {
+      "bukkenNo": "20_3620",
+      "roomNo": "001310501",
+      "bukkenName": "葛西クリーンタウン 清新南ハイツ",
+      "address": "江戸川区清新町1-1",
+      "rent": 107300,
+      "commonfee": 5700,
+      "layout": "1LDK",
+      "floorspace": 44,
+      "floor": "5階",
+      "status": "募集中",
+      "url": "https://www.ur-net.go.jp/chintai/kanto/tokyo/20_3620_room.html?JKSS=001310501",
+      "imageUrl": "https://chintai.r6.ur-net.go.jp/chintai/img_photo/20/20_362/20_362_photo_s.jpg",
+      "madoriUrl": "https://sumai.r6.ur-net.go.jp//chintai/recruit/ArrNormal/10/20362/0010031/A/RA/Image/20_362_0-01-0031_A_RA_01_00014.gif"
+    }
+  ]
+}
